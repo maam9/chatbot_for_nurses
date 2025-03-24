@@ -1,0 +1,145 @@
+[
+  {
+    "text": "station 3",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "station_number",
+        "start": 8,
+        "end": 9,
+        "confidence_entity": 0.46168312430381775,
+        "value": "3",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "issues fever",
+    "entities": [
+      {
+        "start": 7,
+        "end": 12,
+        "value": "fever",
+        "entity": "symptoms"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "here are my issues burning_micturition",
+    "entities": [
+      {
+        "start": 19,
+        "end": 38,
+        "value": "burning_micturition",
+        "entity": "symptoms"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "I'm experiencing fever",
+    "entities": [
+      {
+        "start": 17,
+        "end": 22,
+        "value": "fever",
+        "entity": "symptoms"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "symptoms are fever",
+    "entities": [
+      {
+        "start": 13,
+        "end": 18,
+        "value": "fever",
+        "entity": "symptoms"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "the symptoms are fever",
+    "entities": [
+      {
+        "start": 17,
+        "end": 22,
+        "value": "fever",
+        "entity": "symptoms"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "tell me about Urinary tract infection",
+    "entities": [
+      {
+        "start": 14,
+        "end": 37,
+        "value": "Urinary tract infection",
+        "entity": "disease_name"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "disease_name",
+        "start": 14,
+        "end": 21,
+        "confidence_entity": 0.44885414838790894,
+        "value": "Urinary",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "precaution for Drug Reaction",
+    "entities": [
+      {
+        "start": 15,
+        "end": 28,
+        "value": "Drug Reaction",
+        "entity": "disease_name"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "patient_name",
+        "start": 15,
+        "end": 28,
+        "confidence_entity": 0.6507049202919006,
+        "value": "Drug Reaction",
+        "extractor": "DIETClassifier",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Give me preventive advice for Drug Reaction",
+    "entities": [
+      {
+        "start": 30,
+        "end": 43,
+        "value": "Drug Reaction",
+        "entity": "disease_name"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "patient_name",
+        "start": 30,
+        "end": 43,
+        "confidence_entity": 0.6461395621299744,
+        "value": "Drug Reaction",
+        "extractor": "DIETClassifier",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      }
+    ]
+  }
+]

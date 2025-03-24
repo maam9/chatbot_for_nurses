@@ -1,0 +1,82 @@
+{
+  "type": "MaxHistoryTrackerFeaturizer",
+  "state_featurizer": {
+    "action_texts": [],
+    "entity_tag_specs": [],
+    "feature_states": {
+      "intent": {
+        "ask_all_by_station": 0,
+        "ask_all_patients": 1,
+        "ask_daily_report": 2,
+        "ask_disease_info": 3,
+        "ask_disease_precaution": 4,
+        "ask_medication": 5,
+        "ask_patient_medical_details": 6,
+        "ask_patient_personal_details": 7,
+        "ask_to_predict_disease": 8,
+        "back": 9,
+        "goodbye": 10,
+        "greet": 11,
+        "nlu_fallback": 12,
+        "out_of_scope": 13,
+        "predict_disease": 14,
+        "provide_station_number": 15,
+        "provide_symptoms": 16,
+        "request_appointment": 17,
+        "restart": 18,
+        "session_start": 19
+      },
+      "action_name": {
+        "action_listen": 0,
+        "action_restart": 1,
+        "action_session_start": 2,
+        "action_default_fallback": 3,
+        "action_deactivate_loop": 4,
+        "action_revert_fallback_events": 5,
+        "action_default_ask_affirmation": 6,
+        "action_default_ask_rephrase": 7,
+        "action_two_stage_fallback": 8,
+        "action_unlikely_intent": 9,
+        "action_back": 10,
+        "...": 11,
+        "action_extract_slots": 12,
+        "action_login": 13,
+        "action_show_medication_plan": 14,
+        "action_show_disease_info": 15,
+        "action_show_disease_precaution": 16,
+        "action_show_all_patients": 17,
+        "action_show_patient_list": 18,
+        "action_show_patient_personal_details": 19,
+        "action_show_patient_medical_details": 20,
+        "action_show_daily_report": 21,
+        "action_predict_disease": 22,
+        "action_predict_me": 23,
+        "utter_appointment_link": 24,
+        "utter_ask_for_disease_name": 25,
+        "utter_ask_for_patient_name": 26,
+        "utter_ask_password": 27,
+        "utter_ask_symptoms": 28,
+        "utter_ask_worker_id": 29,
+        "utter_goodbye": 30,
+        "utter_greet": 31,
+        "utter_login_failure": 32,
+        "utter_login_success": 33
+      },
+      "entities": {
+        "disease_name": 0,
+        "patient_name": 1,
+        "station_number": 2,
+        "symptoms": 3,
+        "worker_id": 4
+      },
+      "slots": {
+        "patient_name_0": 0,
+        "disease_name_0": 1,
+        "station_number_0": 2
+      },
+      "active_loop": {}
+    }
+  },
+  "remove_duplicates": true,
+  "max_history": 5
+}

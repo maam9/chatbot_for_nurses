@@ -1,0 +1,77 @@
+[{
+  "_id": {
+    "$oid": "6758ce1dca21d8148f6b1a2b"
+  },
+  "first_name": "John",
+  "last_name": "Doe",
+  "role": "Nurse",
+  "worker_id": "A1B2C",
+  "password": "Pass123",
+  "station_number": 7
+},
+{
+  "_id": {
+    "$oid": "6758ce1dca21d8148f6b1a2c"
+  },
+  "first_name": "Sarah",
+  "last_name": "Miller",
+  "role": "Helper",
+  "worker_id": "3H2K7",
+  "password": "He1per#",
+  "station_number": 3
+},
+{
+  "_id": {
+    "$oid": "6758ce1dca21d8148f6b1a2d"
+  },
+  "first_name": "Mike",
+  "last_name": "Smith",
+  "role": "Other",
+  "worker_id": "9X8B7",
+  "password": "Other@2024",
+  "station_number": 6
+},
+{
+  "_id": {
+    "$oid": "6758ce1dca21d8148f6b1a2e"
+  },
+  "first_name": "Emily",
+  "last_name": "Rodriguez",
+  "role": "Nurse",
+  "worker_id": "B4R9M",
+  "password": "NuR53Pass",
+  "station_number": 5
+},
+{
+  "_id": {
+    "$oid": "6758ce1dca21d8148f6b1a2f"
+  },
+  "first_name": "David",
+  "last_name": "Green",
+  "role": "Helper",
+  "worker_id": "Y5Z2P",
+  "password": "GreeN!12",
+  "station_number": 1
+},
+{
+  "_id": {
+    "$oid": "677824ec745538e507e29098"
+  },
+  "first_name": "Davin",
+  "last_name": "mandal",
+  "role": "Helper",
+  "worker_id": "Y5Z3P",
+  "password": "YreeN!12",
+  "station_number": 2
+},
+{
+  "_id": {
+    "$oid": "6778253d745538e507e2909a"
+  },
+  "first_name": "lolar",
+  "last_name": "hohl",
+  "role": "Helper",
+  "worker_id": "InZ3P",
+  "password": "B2eeN!12",
+  "station_number": 4
+}]

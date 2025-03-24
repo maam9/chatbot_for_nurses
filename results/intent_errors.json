@@ -1,0 +1,18 @@
+[
+  {
+    "text": "hi, how are you?",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "ask_all_patients",
+      "confidence": 0.1491675227880478
+    }
+  },
+  {
+    "text": "I want to see all patient",
+    "intent": "ask_all_patients",
+    "intent_prediction": {
+      "name": "ask_to_predict_disease",
+      "confidence": 0.17636573314666748
+    }
+  }
+]

@@ -1,0 +1,2728 @@
+[
+  {
+    "_id": {
+      "$oid": "676b0d2fe7d85b7f42c9eed3"
+    },
+    "name": "Bobby JacksOn",
+    "person_id": 1,
+    "age": 30,
+    "gender": "Male",
+    "blood_type": "B-",
+    "medical_condition": "Cancer",
+    "date_of_admission": "2024-01-31",
+    "doctor": "Matthew Smith",
+    "hospital": "Sons and Miller",
+    "insurance_Provider": "Blue Cross",
+    "billing_amount": 18856.281306,
+    "room_number": 328,
+    "admission_type": "Urgent",
+    "discharge_date": "2024-02-02",
+    "medication": [
+      "Aspirin ",
+      "Paracetamol",
+      "Lipitor"
+    ],
+    "test_results": "Normal",
+    "emergency_contact": "24352426",
+    "adress": [
+      {
+        "road": "Mainstreet,10",
+        "postcode": 10001,
+        "and": "New York"
+      }
+    ],
+    "daily_report": [
+      {
+        "date": "10.02.2025",
+        "notes": "patient admitted in a hospital",
+        "dinner": "yes",
+        "drinking_amount": "yes",
+        "breakfast": "no",
+        "lunch": "yes"
+      },
+      {
+        "date": "10.02.2025",
+        "notes": "patient admitted in a hospital",
+        "dinner": "yes",
+        "drinking_amount": "yes",
+        "breakfast": "no",
+        "lunch": "yes"
+      }
+    ],
+    "current_Carehome": "Eva Carehaus",
+    "dementia": "yes",
+    "station_number": "7"
+  },
+  {
+    "_id": {
+      "$oid": "676b0d2fe7d85b7f42c9eed4"
+    },
+    "name": "LesLie TErRy",
+    "person_id": 2,
+    "age": 62,
+    "gender": "Male",
+    "blood_type": "A+",
+    "medical_condition": "Obesity",
+    "date_of_admission": "2019-08-20",
+    "doctor": "Samantha Davies",
+    "hospital": "Kim Inc",
+    "insurance_Provider": "Medicare",
+    "billing_amount": 33643.327287,
+    "room_number": 265,
+    "admission_type": "Emergency",
+    "discharge_date": "2019-08-26",
+    "medication": [
+      "Penicillin",
+      "Ibuprofen",
+      "Aspirin"
+    ],
+    "test_results": "Inconclusive",
+    "emergency_contact": "64536290",
+    "adress": [
+      {
+        "road": "Ocean Drive,22",
+        "postcode": 33139,
+        "and": "Miami"
+      }
+    ],
+    "daily_report": [
+      {
+        "date": "10.12.2024",
+        "notes": "Patient is stable today.",
+        "dinner": "no",
+        "drinking_amount": 1800,
+        "breakfast": "yes",
+        "lunch": "yes"
+      },
+      {
+        "date": "10.02.2025",
+        "notes": "patient admitted in a hospital",
+        "dinner": "yes",
+        "drinking_amount": "yes",
+        "breakfast": "no",
+        "lunch": "yes"
+      }
+    ],
+    "current_Carehome": "Eva Carehaus",
+    "dementia": "yes",
+    "station_number": "3"
+  },
+  {
+    "_id": {
+      "$oid": "676b0d2fe7d85b7f42c9eed5"
+    },
+    "name": "DaNnY sMitH",
+    "person_id": 3,
+    "age": 76,
+    "gender": "Female",
+    "blood_type": "A-",
+    "medical_condition": "Obesity",
+    "date_of_admission": "2022-09-22",
+    "doctor": "Tiffany Mitchell",
+    "hospital": "Cook PLC",
+    "insurance_Provider": "Aetna",
+    "billing_amount": 27955.096079,
+    "room_number": 205,
+    "admission_type": "Emergency",
+    "discharge_date": "2022-10-07",
+    "medication": [
+      "Paracetamol",
+      "Omeprazole",
+      "Penicillin"
+    ],
+    "test_results": "Normal",
+    "emergency_contact": "64819107",
+    "adress": [
+      {
+        "road": "Broadway,45",
+        "postcode": 94102,
+        "and": "San Francisco"
+      }
+    ],
+    "daily_report": [
+      {
+        "date": "10.12.2024",
+        "notes": "Patient is stable today.",
+        "dinner": "yes",
+        "drinking_amount": 1000,
+        "breakfast": "yes",
+        "lunch": "yes"
+      }
+    ],
+    "current_Carehome": "Eva Carehaus",
+    "dementia": "yes",
+    "station_number": "1"
+  },
+  {
+    "_id": {
+      "$oid": "676b0d2fe7d85b7f42c9eed6"
+    },
+    "name": "andrEw waTtS",
+    "person_id": 4,
+    "age": 28,
+    "gender": "Female",
+    "blood_type": "O+",
+    "medical_condition": "Diabetes",
+    "date_of_admission": "2020-11-18",
+    "doctor": "Kevin Wells",
+    "hospital": "Hernandez Rogers and Vang,",
+    "insurance_Provider": "Medicare",
+    "billing_amount": 37909.78241,
+    "room_number": 450,
+    "admission_type": "Elective",
+    "discharge_date": "2020-12-18",
+    "medication": [
+      "Penicillin"
+    ],
+    "test_results": "Abnormal",
+    "emergency_contact": "33461864",
+    "adress": [
+      {
+        "road": "Sunset Blvd,8",
+        "postcode": 90028,
+        "and": "Los Angeles"
+      }
+    ],
+    "daily_report": [
+      {
+        "date": "10.12.2024",
+        "notes": "Patient is stable today.",
+        "dinner": "yes",
+        "drinking_amount": 1500,
+        "breakfast": "no",
+        "lunch": "yes"
+      },
+      {
+        "date": "10.12.2024",
+        "notes": "patient want to visit eye Dr.",
+        "dinner": "yes",
+        "drinking_amount": 1500,
+        "breakfast": "no",
+        "lunch": "yes"
+      }
+    ],
+    "current_Carehome": "Eva Carehaus",
+    "dementia": "yes",
+    "station_number": "7"
+  },
+  {
+    "_id": {
+      "$oid": "676b0d2fe7d85b7f42c9eed7"
+    },
+    "name": "adrIENNE bEll",
+    "person_id": 50,
+    "age": 43,
+    "gender": "Female",
+    "blood_type": "AB+",
+    "medical_condition": "Cancer",
+    "date_of_admission": "2022-09-19",
+    "doctor": "Kathleen Hanna",
+    "hospital": "White-White",
+    "insurance_Provider": "Aetna",
+    "billing_amount": 14238.317814,
+    "room_number": 458,
+    "admission_type": "Urgent",
+    "discharge_date": "2022-10-09",
+    "medication": [
+      "Aspirin",
+      "Lipitor"
+    ],
+    "test_results": "Abnormal",
+    "emergency_contact": "41192175",
+    "adress": [
+      {
+        "road": "Michigan Ave,120",
+        "postcode": 60611,
+        "and": "Chicago"
+      }
+    ],
+    "daily_report": [
+      {
+        "date": "10.12.2024",
+        "notes": "Patient is stable today.",
+        "dinner": "yes",
+        "drinking_amount": 1500,
+        "breakfast": "no",
+        "lunch": "yes"
+      }
+    ],
+    "current_Carehome": "Eva Carehaus",
+    "dementia": "yes",
+    "station_number": "5"
+  },
+  {
+    "_id": {
+      "$oid": "676b0d2fe7d85b7f42c9eed8"
+    },
+    "name": "EMILY JOHNSOn",
+    "person_id": 5,
+    "age": 36,
+    "gender": "Male",
+    "blood_type": "A+",
+    "medical_condition": "Asthma",
+    "date_of_admission": "2023-12-20",
+    "doctor": "Taylor Newton",
+    "hospital": "Nunez-Humphrey",
+    "insurance_Provider": "UnitedHealthcare",
+    "billing_amount": 48145.110951,
+    "room_number": 389,
+    "admission_type": "Urgent",
+    "discharge_date": "2023-12-24",
+    "medication": [
+      "Paracetamol",
+      "Aspirin",
+      "Lipitor"
+    ],
+    "test_results": "Normal",
+    "emergency_contact": "41578647",
+    "adress": [
+      {
+        "road": "Peachtree St,200",
+        "postcode": 30303,
+        "and": "Atlanta"
+      }
+    ],
+    "daily_report": [
+      {
+        "date": "10.12.2024",
+        "notes": "Patient is stable today.",
+        "dinner": "yes",
+        "drinking_amount": 3000,
+        "breakfast": "no",
+        "lunch": "yes"
+      }
+    ],
+    "current_Carehome": "Eva Carehaus",
+    "dementia": "yes",
+    "station_number": "2"
+  },
+  {
+    "_id": {
+      "$oid": "676b0d2fe7d85b7f42c9eed9"
+    },
+    "name": "edwArD EDWaRDs",
+    "person_id": 6,
+    "age": 21,
+    "gender": "Female",
+    "blood_type": "AB-",
+    "medical_condition": "Diabetes",
+    "date_of_admission": "2020-11-03",
+    "doctor": "Kelly Olson",
+    "hospital": "Group Middleton",
+    "insurance_Provider": "Medicare",
+    "billing_amount": 19580.872345,
+    "room_number": 389,
+    "admission_type": "Emergency",
+    "discharge_date": "2020-11-15",
+    "medication": [
+      "Aspirin",
+      "Penicillin"
+    ],
+    "test_results": "Inconclusive",
+    "emergency_contact": "31391831",
+    "adress": [
+      {
+        "road": "Fremont St,310",
+        "postcode": 89101,
+        "and": "Las Vegas"
+      }
+    ],
+    "daily_report": [
+      {
+        "date": "10.12.2024",
+        "notes": "Patient is stable today.",
+        "dinner": "yes",
+        "drinking_amount": 2200,
+        "breakfast": "yes",
+        "lunch": "yes"
+      }
+    ],
+    "current_Carehome": "Eva Carehaus",
+    "dementia": "yes",
+    "station_number": "6"
+  },
+  {
+    "_id": {
+      "$oid": "676b0d2fe7d85b7f42c9eedb"
+    },
+    "name": "mIchElLe daniELs",
+    "person_id": 7,
+    "age": 72,
+    "gender": "Male",
+    "blood_type": "O+",
+    "medical_condition": "Cancer",
+    "date_of_admission": {
+      "$date": "2020-04-19T00:00:00.000Z"
+    },
+    "doctor": "John Duncan",
+    "hospital": "Schaefer-Porter",
+    "insurance_Provider": "Medicare",
+    "billing_amount": 12576.795609050234,
+    "room_number": 394,
+    "admission_type": "Urgent",
+    "discharge_date": {
+      "$date": "2020-04-22T00:00:00.000Z"
+    },
+    "medication": [
+      "Aspirin",
+      "Paracetamol"
+    ],
+    "test_results": "Normal",
+    "emergency_contact": "85673412",
+    "adress": [
+      {
+        "road": "Elm Drive, 7",
+        "postcode": 40004,
+        "and": "Florida"
+      }
+    ],
+    "daily_report": [
+      {
+        "date": "15.11.2024",
+        "notes": "Patient is stable today.",
+        "dinner": "yes",
+        "drinking_amount": 2000,
+        "breakfast": "yes",
+        "lunch": "no"
+      }
+    ],
+    "current_Carehome": "Eva Carehaus",
+    "dementia": "yes",
+    "station_number": "3"
+  },
+  {
+    "_id": {
+      "$oid": "676b0d2fe7d85b7f42c9eedc"
+    },
+    "name": "aaRon MARtiNeZ",
+    "person_id": 8,
+    "age": 38,
+    "gender": "Female",
+    "blood_type": "A-",
+    "medical_condition": "Hypertension",
+    "date_of_admission": {
+      "$date": "2023-08-13T00:00:00.000Z"
+    },
+    "doctor": "Douglas Mayo",
+    "hospital": "Lyons-Blair",
+    "insurance_Provider": "Medicare",
+    "billing_amount": 7999.586879604188,
+    "room_number": 288,
+    "admission_type": "Urgent",
+    "discharge_date": {
+      "$date": "2023-09-05T00:00:00.000Z"
+    },
+    "medication": [
+      "Lipitor( 0-0-1)",
+      "Ibuprofen(1-0-1)"
+    ],
+    "test_results": "Inconclusive",
+    "emergency_contact": "92384657",
+    "adress": [
+      {
+        "road": "Willow Lane, 12",
+        "postcode": 50005,
+        "and": "Illinois"
+      }
+    ],
+    "daily_report": [
+      {
+        "date": "20.10.2024",
+        "notes": "Blood pressure remains high.",
+        "dinner": "yes",
+        "drinking_amount": 2200,
+        "breakfast": "yes",
+        "lunch": "yes"
+      }
+    ],
+    "current_Carehome": "Eva Carehaus",
+    "dementia": "no",
+    "station_number": "5"
+  },
+  {
+    "_id": {
+      "$oid": "676b0d2fe7d85b7f42c9eedd"
+    },
+    "name": "Teresa Gonzalez",
+    "person_id": 9,
+    "age": 37,
+    "gender": "Female",
+    "blood_type": "B-",
+    "medical_condition": "Arthritis",
+    "date_of_admission": {
+      "$date": "2021-11-09T00:00:00.000Z"
+    },
+    "doctor": "Brian Watson",
+    "hospital": "Sanders Ltd",
+    "insurance_Provider": "Medicare",
+    "billing_amount": 22356.08,
+    "room_number": 456,
+    "admission_type": "Emergency",
+    "discharge_date": {
+      "$date": "2021-11-28T00:00:00.000Z"
+    },
+    "medication": [
+      "Lipitor",
+      "Ibuprofen"
+    ],
+    "test_results": "Abnormal",
+    "emergency_contact": "83476245",
+    "adress": [
+      {
+        "road": "Oak Avenue, 23",
+        "postcode": 20002,
+        "and": "California"
+      }
+    ],
+    "daily_report": [
+      {
+        "date": "12.11.2024",
+        "notes": "Patient is recovering well.",
+        "dinner": "yes",
+        "drinking_amount": 2100,
+        "breakfast": "yes",
+        "lunch": "yes"
+      },
+      {
+        "date": "10.02.2025",
+        "notes": "patient admitted in a hospital",
+        "dinner": "yes",
+        "drinking_amount": "yes",
+        "breakfast": "no",
+        "lunch": "yes"
+      }
+    ],
+    "current_Carehome": "Eva Carehaus",
+    "dementia": "no",
+    "station_number": "5"
+  },
+  {
+    "_id": {
+      "$oid": "676b0d2fe7d85b7f42c9eede"
+    },
+    "name": "Rodney Maynard",
+    "person_id": 10,
+    "age": 81,
+    "gender": "Male",
+    "blood_type": "AB-",
+    "medical_condition": "Obesity",
+    "date_of_admission": {
+      "$date": "2023-07-09T00:00:00.000Z"
+    },
+    "doctor": "Dr. Kyle Dickson",
+    "hospital": "Nixon, Evans and Bradley",
+    "insurance_Provider": "Blue Cross",
+    "billing_amount": 21001.27,
+    "room_number": 197,
+    "admission_type": "Emergency",
+    "discharge_date": {
+      "$date": "2023-07-17T00:00:00.000Z"
+    },
+    "medication": [
+      "Phenoxymethylpenicillin"
+    ],
+    "test_results": "Normal",
+    "emergency_contact": "91827364",
+    "adress": [
+      {
+        "road": "Elm Drive, 7",
+        "postcode": 40004,
+        "and": "Florida"
+      }
+    ],
+    "daily_report": [
+      {
+        "date": "10.07.2024",
+        "notes": "Blood sugar levels improving.",
+        "dinner": "yes",
+        "drinking_amount": 1800,
+        "breakfast": "yes",
+        "lunch": "no"
+      }
+    ],
+    "current_Carehome": "Eva Carehaus",
+    "dementia": "yes",
+    "station_number": "3"
+  },
+  {
+    "_id": {
+      "$oid": "676b0d2fe7d85b7f42c9eedf"
+    },
+    "name": "Teresa Gonzalez",
+    "person_id": 11,
+    "age": 37,
+    "gender": "Female",
+    "blood_type": "B-",
+    "medical_condition": "Arthritis",
+    "date_of_admission": {
+      "$date": "2021-11-09T00:00:00.000Z"
+    },
+    "doctor": "Brian Watson",
+    "hospital": "Sanders Ltd",
+    "insurance_Provider": "Medicare",
+    "billing_amount": 22356.08,
+    "room_number": 456,
+    "admission_type": "Emergency",
+    "discharge_date": {
+      "$date": "2021-11-28T00:00:00.000Z"
+    },
+    "medication": [
+      "Lipitor",
+      "Ibuprofen"
+    ],
+    "test_results": "Abnormal",
+    "emergency_contact": "83476245",
+    "adress": [
+      {
+        "road": "Oak Avenue, 23",
+        "postcode": 20002,
+        "and": "California"
+      }
+    ],
+    "daily_report": [
+      {
+        "date": "12.11.2024",
+        "notes": "Patient is recovering well.",
+        "dinner": "yes",
+        "drinking_amount": 2100,
+        "breakfast": "yes",
+        "lunch": "yes"
+      }
+    ],
+    "current_Carehome": "Eva Carehaus",
+    "dementia": "no",
+    "station_number": "5"
+  },
+  {
+    "_id": {
+      "$oid": "676b0d2fe7d85b7f42c9eee0"
+    },
+    "name": "Rodney Maynard",
+    "person_id": 12,
+    "age": 81,
+    "gender": "Male",
+    "blood_type": "AB-",
+    "medical_condition": "Obesity",
+    "date_of_admission": {
+      "$date": "2023-07-09T00:00:00.000Z"
+    },
+    "doctor": "Dr. Kyle Dickson",
+    "hospital": "Nixon, Evans and Bradley",
+    "insurance_Provider": "Blue Cross",
+    "billing_amount": 21001.27,
+    "room_number": 197,
+    "admission_type": "Emergency",
+    "discharge_date": {
+      "$date": "2023-07-17T00:00:00.000Z"
+    },
+    "medication": [
+      "Phenoxymethylpenicillin"
+    ],
+    "test_results": "Normal",
+    "emergency_contact": "91827364",
+    "adress": [
+      {
+        "road": "Elm Drive, 7",
+        "postcode": 40004,
+        "and": "Florida"
+      }
+    ],
+    "daily_report": [
+      {
+        "date": "10.07.2024",
+        "notes": "Blood sugar levels improving.",
+        "dinner": "yes",
+        "drinking_amount": 1800,
+        "breakfast": "yes",
+        "lunch": "no"
+      }
+    ],
+    "current_Carehome": "Eva Carehaus",
+    "dementia": "yes",
+    "station_number": "3"
+  },
+  {
+    "_id": {
+      "$oid": "676b0d2fe7d85b7f42c9eee1"
+    },
+    "name": "Kevin Johnson",
+    "person_id": 51,
+    "age": 78,
+    "gender": "Male",
+    "blood_type": "O-",
+    "medical_condition": "Asthma",
+    "date_of_admission": {
+      "$date": "2021-02-06T00:00:00.000Z"
+    },
+    "doctor": "Michael Smith",
+    "hospital": "Hernandez, Hunt and Clark",
+    "insurance_Provider": "Medicare",
+    "billing_amount": 9007.97,
+    "room_number": 247,
+    "admission_type": "Urgent",
+    "discharge_date": {
+      "$date": "2021-03-03T00:00:00.000Z"
+    },
+    "medication": [
+      "Lipitor",
+      "Allopurinol"
+    ],
+    "test_results": "Abnormal",
+    "emergency_contact": "89234567",
+    "adress": [
+      {
+        "road": "Pine Street, 50",
+        "postcode": 30003,
+        "and": "Texas"
+      }
+    ],
+    "daily_report": [
+      {
+        "date": "14.11.2024",
+        "notes": "Patient's condition stable.",
+        "dinner": "yes",
+        "drinking_amount": 2000,
+        "breakfast": "no",
+        "lunch": "yes"
+      }
+    ],
+    "current_Carehome": "Eva Carehaus",
+    "dementia": "yes",
+    "station_number": "3"
+  },
+  {
+    "_id": {
+      "$oid": "676b0d2fe7d85b7f42c9eee2"
+    },
+    "name": "Rebecca Parsons",
+    "person_id": 13,
+    "age": 51,
+    "gender": "Male",
+    "blood_type": "B-",
+    "medical_condition": "Asthma",
+    "date_of_admission": {
+      "$date": "2021-01-29T00:00:00.000Z"
+    },
+    "doctor": "Pamela Brown",
+    "hospital": "James and Sons",
+    "insurance_Provider": "Blue Cross",
+    "billing_amount": 39031.36,
+    "room_number": 228,
+    "admission_type": "Elective",
+    "discharge_date": {
+      "$date": "2021-02-23T00:00:00.000Z"
+    },
+    "medication": [
+      "Paracetamol",
+      "Ibuprofen"
+    ],
+    "test_results": "Abnormal",
+    "emergency_contact": "78429356",
+    "adress": [
+      {
+        "road": "Oak Avenue, 23",
+        "postcode": 20002,
+        "and": "California"
+      }
+    ],
+    "daily_report": [
+      {
+        "date": "10.12.2024",
+        "notes": "Patient is stable today.",
+        "dinner": "yes",
+        "drinking_amount": 2200,
+        "breakfast": "yes",
+        "lunch": "yes"
+      }
+    ],
+    "current_Carehome": "Eva Carehaus",
+    "dementia": "no",
+    "station_number": "5"
+  },
+  {
+    "_id": {
+      "$oid": "676b0d2fe7d85b7f42c9eee3"
+    },
+    "name": "Linda Chavez",
+    "person_id": 14,
+    "age": 33,
+    "gender": "Male",
+    "blood_type": "A-",
+    "medical_condition": "Cancer",
+    "date_of_admission": {
+      "$date": "2019-12-01T00:00:00.000Z"
+    },
+    "doctor": "Tiffany Crawford",
+    "hospital": "Winters and Sons",
+    "insurance_Provider": "Cigna",
+    "billing_amount": 24609.37,
+    "room_number": 137,
+    "admission_type": "Emergency",
+    "discharge_date": {
+      "$date": "2019-12-18T00:00:00.000Z"
+    },
+    "medication": [
+      "Penicillin",
+      "Phenoxymethylpenicillin"
+    ],
+    "test_results": "Abnormal",
+    "emergency_contact": "98374652",
+    "adress": [
+      {
+        "road": "Elm Drive, 7",
+        "postcode": 40004,
+        "and": "Florida"
+      }
+    ],
+    "daily_report": [
+      {
+        "date": "18.11.2024",
+        "notes": "Patient is improving.",
+        "dinner": "no",
+        "drinking_amount": 1800,
+        "breakfast": "yes",
+        "lunch": "no"
+      }
+    ],
+    "current_Carehome": "Eva Carehaus",
+    "dementia": "yes",
+    "station_number": "2"
+  },
+  {
+    "_id": {
+      "$oid": "676b0d2fe7d85b7f42c9eee4"
+    },
+    "name": "Jennifer Rodriguez",
+    "person_id": 15,
+    "age": 83,
+    "gender": "Female",
+    "blood_type": "AB-",
+    "medical_condition": "Asthma",
+    "date_of_admission": {
+      "$date": "2019-11-12T00:00:00.000Z"
+    },
+    "doctor": "Rachel Sullivan",
+    "hospital": "Duke Group",
+    "insurance_Provider": "Cigna",
+    "billing_amount": 5098.66,
+    "room_number": 192,
+    "admission_type": "Emergency",
+    "discharge_date": {
+      "$date": "2019-11-24T00:00:00.000Z"
+    },
+    "medication": [
+      "Lipitor",
+      "Aspirin"
+    ],
+    "test_results": "Abnormal",
+    "emergency_contact": "76549382",
+    "adress": [
+      {
+        "road": "Willow Lane, 12",
+        "postcode": 50005,
+        "and": "Illinois"
+      }
+    ],
+    "daily_report": [
+      {
+        "date": "15.11.2024",
+        "notes": "Patient showing slow progress.",
+        "dinner": "yes",
+        "drinking_amount": 2000,
+        "breakfast": "no",
+        "lunch": "yes"
+      }
+    ],
+    "current_Carehome": "Eva Carehaus",
+    "dementia": "no",
+    "station_number": "4"
+  },
+  {
+    "_id": {
+      "$oid": "676b0d2fe7d85b7f42c9eee5"
+    },
+    "name": "Anna Adams",
+    "person_id": 16,
+    "age": 70,
+    "gender": "Female",
+    "blood_type": "A+",
+    "medical_condition": "Obesity",
+    "date_of_admission": {
+      "$date": "2022-09-06T00:00:00.000Z"
+    },
+    "doctor": "Samuel Taylor",
+    "hospital": "Snow Group",
+    "insurance_Provider": "Medicare",
+    "billing_amount": 1000.18,
+    "room_number": 258,
+    "admission_type": "Emergency",
+    "discharge_date": {
+      "$date": "2022-09-18T00:00:00.000Z"
+    },
+    "medication": [
+      "Paracetamol",
+      "Nefopam"
+    ],
+    "test_results": "Abnormal",
+    "emergency_contact": "84521973",
+    "adress": [
+      {
+        "road": "Oak Avenue, 23",
+        "postcode": 20002,
+        "and": "California"
+      }
+    ],
+    "daily_report": [
+      {
+        "date": "12.10.2024",
+        "notes": "Patient remains in observation.",
+        "dinner": "no",
+        "drinking_amount": 1800,
+        "breakfast": "yes",
+        "lunch": "no"
+      }
+    ],
+    "current_Carehome": "Eva Carehaus",
+    "dementia": "yes",
+    "station_number": "2"
+  },
+  {
+    "_id": {
+      "$oid": "676b0d2fe7d85b7f42c9eee6"
+    },
+    "name": "Mariah Williams",
+    "person_id": 17,
+    "age": 72,
+    "gender": "Male",
+    "blood_type": "A-",
+    "medical_condition": "Diabetes",
+    "date_of_admission": {
+      "$date": "2021-03-19T00:00:00.000Z"
+    },
+    "doctor": "John Harvey",
+    "hospital": "Anderson-Mason",
+    "insurance_Provider": "Blue Cross",
+    "billing_amount": 24913.55,
+    "room_number": 219,
+    "admission_type": "Elective",
+    "discharge_date": {
+      "$date": "2021-03-20T00:00:00.000Z"
+    },
+    "medication": [
+      "Penicillin"
+    ],
+    "test_results": "Normal",
+    "emergency_contact": "91237465",
+    "adress": [
+      {
+        "road": "Pine Street, 50",
+        "postcode": 30003,
+        "and": "Texas"
+      }
+    ],
+    "daily_report": [
+      {
+        "date": "19.10.2024",
+        "notes": "Blood sugar levels stabilized.",
+        "dinner": "yes",
+        "drinking_amount": 2200,
+        "breakfast": "yes",
+        "lunch": "yes"
+      }
+    ],
+    "current_Carehome": "Eva Carehaus",
+    "dementia": "no",
+    "station_number": "6"
+  },
+  {
+    "_id": {
+      "$oid": "676b0d2fe7d85b7f42c9eee7"
+    },
+    "name": "Brendan Moody",
+    "person_id": 18,
+    "age": 30,
+    "gender": "Male",
+    "blood_type": "AB+",
+    "medical_condition": "Diabetes",
+    "date_of_admission": {
+      "$date": "2021-02-24T00:00:00.000Z"
+    },
+    "doctor": "Sylvia Johnson",
+    "hospital": "Gonzalez Inc",
+    "insurance_Provider": "UnitedHealthcare",
+    "billing_amount": 24274.14,
+    "room_number": 364,
+    "admission_type": "Elective",
+    "discharge_date": {
+      "$date": "2021-03-21T00:00:00.000Z"
+    },
+    "medication": [
+      "Paracetamol",
+      "Lipitor"
+    ],
+    "test_results": "Normal",
+    "emergency_contact": "84927631",
+    "adress": [
+      {
+        "road": "Willow Lane, 12",
+        "postcode": 50005,
+        "and": "Illinois"
+      }
+    ],
+    "daily_report": [
+      {
+        "date": "11.11.2024",
+        "notes": "Patient improving steadily.",
+        "dinner": "yes",
+        "drinking_amount": 2500,
+        "breakfast": "yes",
+        "lunch": "no"
+      }
+    ],
+    "current_Carehome": "Eva Carehaus",
+    "dementia": "no",
+    "station_number": "7"
+  },
+  {
+    "_id": {
+      "$oid": "676b0d2fe7d85b7f42c9eee8"
+    },
+    "name": "Michael Burns",
+    "person_id": 19,
+    "age": 19,
+    "gender": "Male",
+    "blood_type": "B-",
+    "medical_condition": "Cancer",
+    "date_of_admission": {
+      "$date": "2021-06-30T00:00:00.000Z"
+    },
+    "doctor": "Janice Vargas",
+    "hospital": "Wiggins Ltd",
+    "insurance_Provider": "Aetna",
+    "billing_amount": 16171.95,
+    "room_number": 414,
+    "admission_type": "Emergency",
+    "discharge_date": {
+      "$date": "2021-07-14T00:00:00.000Z"
+    },
+    "medication": [
+      "Aspirin",
+      "Ibuprofen"
+    ],
+    "test_results": "Inconclusive",
+    "emergency_contact": "76341982",
+    "adress": [
+      {
+        "road": "Elm Drive, 7",
+        "postcode": 40004,
+        "and": "Florida"
+      }
+    ],
+    "daily_report": [
+      {
+        "date": "20.12.2024",
+        "notes": "Patient's condition remains critical.",
+        "dinner": "no",
+        "drinking_amount": 1800,
+        "breakfast": "yes",
+        "lunch": "no"
+      }
+    ],
+    "current_Carehome": "Eva Carehaus",
+    "dementia": "yes",
+    "station_number": "5"
+  },
+  {
+    "_id": {
+      "$oid": "676b0d2fe7d85b7f42c9eee9"
+    },
+    "name": "Miguel Baker",
+    "person_id": 20,
+    "age": 23,
+    "gender": "Male",
+    "blood_type": "O-",
+    "medical_condition": "Arthritis",
+    "date_of_admission": {
+      "$date": "2019-03-25T00:00:00.000Z"
+    },
+    "doctor": "Mark Hill",
+    "hospital": "Ramirez Inc",
+    "insurance_Provider": "UnitedHealthcare",
+    "billing_amount": 39329.11,
+    "room_number": 110,
+    "admission_type": "Urgent",
+    "discharge_date": {
+      "$date": "2019-04-08T00:00:00.000Z"
+    },
+    "medication": [
+      "Penicillin",
+      "Betahistine"
+    ],
+    "test_results": "Inconclusive",
+    "emergency_contact": "93287415",
+    "adress": [
+      {
+        "road": "Pine Street, 50",
+        "postcode": 30003,
+        "and": "Texas"
+      }
+    ],
+    "daily_report": [
+      {
+        "date": "17.10.2024",
+        "notes": "Patient experiencing mild pain.",
+        "dinner": "yes",
+        "drinking_amount": 2000,
+        "breakfast": "yes",
+        "lunch": "yes"
+      }
+    ],
+    "current_Carehome": "Eva Carehaus",
+    "dementia": "no",
+    "station_number": "4"
+  },
+  {
+    "_id": {
+      "$oid": "676b0d2fe7d85b7f42c9eeea"
+    },
+    "name": "Mr. Christopher Miller",
+    "person_id": 21,
+    "age": 81,
+    "gender": "Male",
+    "blood_type": "AB+",
+    "medical_condition": "Hypertension",
+    "date_of_admission": {
+      "$date": "2021-08-15T00:00:00.000Z"
+    },
+    "doctor": "Amber Gonzalez",
+    "hospital": "Ortega and Sons",
+    "insurance_Provider": "Cigna",
+    "billing_amount": 22519.34,
+    "room_number": 465,
+    "admission_type": "Emergency",
+    "discharge_date": {
+      "$date": "2021-09-06T00:00:00.000Z"
+    },
+    "medication": [
+      "Lipitor",
+      "Betahistine"
+    ],
+    "test_results": "Inconclusive",
+    "emergency_contact": "83476129",
+    "adress": [
+      {
+        "road": "Willow Lane, 12",
+        "postcode": 50005,
+        "and": "Illinois"
+      }
+    ],
+    "daily_report": [
+      {
+        "date": "13.12.2024",
+        "notes": "Blood pressure stable.",
+        "dinner": "yes",
+        "drinking_amount": 2100,
+        "breakfast": "yes",
+        "lunch": "yes"
+      }
+    ],
+    "current_Carehome": "Eva Carehaus",
+    "dementia": "no",
+    "station_number": "3"
+  },
+  {
+    "_id": {
+      "$oid": "676b0d2fe7d85b7f42c9eeeb"
+    },
+    "name": "Theresa Mendoza",
+    "person_id": 22,
+    "age": 46,
+    "gender": "Female",
+    "blood_type": "A+",
+    "medical_condition": "Asthma",
+    "date_of_admission": {
+      "$date": "2023-03-03T00:00:00.000Z"
+    },
+    "doctor": "Wendy Galloway",
+    "hospital": "Wood-Krause",
+    "insurance_Provider": "Aetna",
+    "billing_amount": 1996.31,
+    "room_number": 469,
+    "admission_type": "Urgent",
+    "discharge_date": {
+      "$date": "2023-03-05T00:00:00.000Z"
+    },
+    "medication": [
+      "Penicillin",
+      "Allopurinol"
+    ],
+    "test_results": "Inconclusive",
+    "emergency_contact": "76283941",
+    "adress": [
+      {
+        "road": "Elm Drive, 7",
+        "postcode": 40004,
+        "and": "Florida"
+      }
+    ],
+    "daily_report": [
+      {
+        "date": "09.12.2024",
+        "notes": "Patient responding well to treatment.",
+        "dinner": "yes",
+        "drinking_amount": 2000,
+        "breakfast": "yes",
+        "lunch": "no"
+      }
+    ],
+    "current_Carehome": "Eva Carehaus",
+    "dementia": "yes",
+    "station_number": "5"
+  },
+  {
+    "_id": {
+      "$oid": "676b0d2fe7d85b7f42c9eeec"
+    },
+    "name": "Laura Adams",
+    "person_id": 23,
+    "age": 48,
+    "gender": "Female",
+    "blood_type": "B-",
+    "medical_condition": "Diabetes",
+    "date_of_admission": {
+      "$date": "2021-08-07T00:00:00.000Z"
+    },
+    "doctor": "Michael Harris",
+    "hospital": "Johnson, Smith and Clark",
+    "insurance_Provider": "Cigna",
+    "billing_amount": 5470.21,
+    "room_number": 182,
+    "admission_type": "Emergency",
+    "discharge_date": {
+      "$date": "2021-08-09T00:00:00.000Z"
+    },
+    "medication": [
+      "Ibuprofen",
+      "Nefopam"
+    ],
+    "test_results": "Inconclusive",
+    "emergency_contact": "92384765",
+    "adress": [
+      {
+        "road": "Oak Avenue, 23",
+        "postcode": 20002,
+        "and": "California"
+      }
+    ],
+    "daily_report": [
+      {
+        "date": "12.11.2024",
+        "notes": "Patient's condition improving.",
+        "dinner": "yes",
+        "drinking_amount": 2300,
+        "breakfast": "yes",
+        "lunch": "yes"
+      }
+    ],
+    "current_Carehome": "Eva Carehaus",
+    "dementia": "no",
+    "station_number": "6"
+  },
+  {
+    "_id": {
+      "$oid": "676b0d2fe7d85b7f42c9eeed"
+    },
+    "name": "Lauren Barton",
+    "person_id": 24,
+    "age": 34,
+    "gender": "Male",
+    "blood_type": "O+",
+    "medical_condition": "Hypertension",
+    "date_of_admission": {
+      "$date": "2019-06-06T00:00:00.000Z"
+    },
+    "doctor": "Emily West",
+    "hospital": "Gallagher-Horton",
+    "insurance_Provider": "Medicare",
+    "billing_amount": 16036.11,
+    "room_number": 119,
+    "admission_type": "Emergency",
+    "discharge_date": {
+      "$date": "2019-06-30T00:00:00.000Z"
+    },
+    "medication": [
+      "Paracetamol"
+    ],
+    "test_results": "Normal",
+    "emergency_contact": "87432695",
+    "adress": [
+      {
+        "road": "Pine Street, 50",
+        "postcode": 30003,
+        "and": "Texas"
+      }
+    ],
+    "daily_report": [
+      {
+        "date": "20.11.2024",
+        "notes": "Patient's blood pressure under control.",
+        "dinner": "no",
+        "drinking_amount": 1900,
+        "breakfast": "yes",
+        "lunch": "yes"
+      }
+    ],
+    "current_Carehome": "Eva Carehaus",
+    "dementia": "no",
+    "station_number": "4"
+  },
+  {
+    "_id": {
+      "$oid": "676b0d2fe7d85b7f42c9eeee"
+    },
+    "name": "Christina Hernandez",
+    "person_id": 25,
+    "age": 84,
+    "gender": "Female",
+    "blood_type": "O+",
+    "medical_condition": "Hypertension",
+    "date_of_admission": {
+      "$date": "2019-10-13T00:00:00.000Z"
+    },
+    "doctor": "Cody Wright",
+    "hospital": "Harris and Sons",
+    "insurance_Provider": "Aetna",
+    "billing_amount": 10803.73,
+    "room_number": 388,
+    "admission_type": "Emergency",
+    "discharge_date": {
+      "$date": "2019-10-29T00:00:00.000Z"
+    },
+    "medication": [
+      "Aspirin",
+      "Allopurinol"
+    ],
+    "test_results": "Inconclusive",
+    "emergency_contact": "87423654",
+    "adress": [
+      {
+        "road": "Oak Avenue, 23",
+        "postcode": 20002,
+        "and": "California"
+      }
+    ],
+    "daily_report": [
+      {
+        "date": "15.11.2024",
+        "notes": "Patient's blood pressure stabilizing.",
+        "dinner": "yes",
+        "drinking_amount": 2000,
+        "breakfast": "yes",
+        "lunch": "yes"
+      }
+    ],
+    "current_Carehome": "Eva Carehaus",
+    "dementia": "no",
+    "station_number": "3"
+  },
+  {
+    "_id": {
+      "$oid": "676b0d2fe7d85b7f42c9eeef"
+    },
+    "name": "Kyle Byrd",
+    "person_id": 26,
+    "age": 48,
+    "gender": "Female",
+    "blood_type": "B-",
+    "medical_condition": "Arthritis",
+    "date_of_admission": {
+      "$date": "2022-10-20T00:00:00.000Z"
+    },
+    "doctor": "Melissa Kelley",
+    "hospital": "Kerr LLC",
+    "insurance_Provider": "Aetna",
+    "billing_amount": 38872.65,
+    "room_number": 412,
+    "admission_type": "Elective",
+    "discharge_date": {
+      "$date": "2022-11-04T00:00:00.000Z"
+    },
+    "medication": [
+      "Penicillin",
+      "Nefopam"
+    ],
+    "test_results": "Abnormal",
+    "emergency_contact": "93247568",
+    "adress": [
+      {
+        "road": "Willow Lane, 12",
+        "postcode": 50005,
+        "and": "Illinois"
+      }
+    ],
+    "daily_report": [
+      {
+        "date": "17.10.2024",
+        "notes": "Patient experiencing mild joint pain.",
+        "dinner": "yes",
+        "drinking_amount": 1900,
+        "breakfast": "yes",
+        "lunch": "no"
+      }
+    ],
+    "current_Carehome": "Eva Carehaus",
+    "dementia": "yes",
+    "station_number": "5"
+  },
+  {
+    "_id": {
+      "$oid": "676b0d2fe7d85b7f42c9eef0"
+    },
+    "name": "Jasmine Singleton",
+    "person_id": 27,
+    "age": 37,
+    "gender": "Male",
+    "blood_type": "AB-",
+    "medical_condition": "Obesity",
+    "date_of_admission": {
+      "$date": "2019-06-26T00:00:00.000Z"
+    },
+    "doctor": "Larry Guzman",
+    "hospital": "Thomas Group",
+    "insurance_Provider": "Blue Cross",
+    "billing_amount": 34132.62,
+    "room_number": 182,
+    "admission_type": "Emergency",
+    "discharge_date": {
+      "$date": "2019-07-24T00:00:00.000Z"
+    },
+    "medication": [
+      "Ibuprofen",
+      "Lipitor"
+    ],
+    "test_results": "Normal",
+    "emergency_contact": "89324567",
+    "adress": [
+      {
+        "road": "Elm Drive, 7",
+        "postcode": 40004,
+        "and": "Florida"
+      }
+    ],
+    "daily_report": [
+      {
+        "date": "12.12.2024",
+        "notes": "Patient has shown weight reduction.",
+        "dinner": "no",
+        "drinking_amount": 2300,
+        "breakfast": "yes",
+        "lunch": "yes"
+      }
+    ],
+    "current_Carehome": "Eva Carehaus",
+    "dementia": "no",
+    "station_number": "6"
+  },
+  {
+    "_id": {
+      "$oid": "676b0d2fe7d85b7f42c9eef1"
+    },
+    "name": "John Griffin",
+    "person_id": 28,
+    "age": 78,
+    "gender": "Female",
+    "blood_type": "B-",
+    "medical_condition": "Cancer",
+    "date_of_admission": {
+      "$date": "2020-04-03T00:00:00.000Z"
+    },
+    "doctor": "Kelsey Clark",
+    "hospital": "Aguirre LLC",
+    "insurance_Provider": "Aetna",
+    "billing_amount": 25948.51,
+    "room_number": 359,
+    "admission_type": "Emergency",
+    "discharge_date": {
+      "$date": "2020-04-06T00:00:00.000Z"
+    },
+    "medication": [
+      "Lipitor",
+      "Phenoxymethylpenicillin"
+    ],
+    "test_results": "Normal",
+    "emergency_contact": "91238475",
+    "adress": [
+      {
+        "road": "Pine Street, 50",
+        "postcode": 30003,
+        "and": "Texas"
+      }
+    ],
+    "daily_report": [
+      {
+        "date": "14.12.2024",
+        "notes": "Patient recovering well post-therapy.",
+        "dinner": "yes",
+        "drinking_amount": 2100,
+        "breakfast": "yes",
+        "lunch": "yes"
+      }
+    ],
+    "current_Carehome": "Eva Carehaus",
+    "dementia": "yes",
+    "station_number": "7"
+  },
+  {
+    "_id": {
+      "$oid": "676b0d2fe7d85b7f42c9eef2"
+    },
+    "name": "Justin Kaufman",
+    "person_id": 29,
+    "age": 82,
+    "gender": "Female",
+    "blood_type": "AB-",
+    "medical_condition": "Diabetes",
+    "date_of_admission": {
+      "$date": "2021-02-18T00:00:00.000Z"
+    },
+    "doctor": "Corey Sutton",
+    "hospital": "Rodriguez-Robertson",
+    "insurance_Provider": "Cigna",
+    "billing_amount": 46461.82,
+    "room_number": 186,
+    "admission_type": "Urgent",
+    "discharge_date": {
+      "$date": "2021-03-06T00:00:00.000Z"
+    },
+    "medication": [
+      "Lipitor",
+      "Aspirin"
+    ],
+    "test_results": "Abnormal",
+    "emergency_contact": "87392154",
+    "adress": [
+      {
+        "road": "Willow Lane, 12",
+        "postcode": 50005,
+        "and": "Illinois"
+      }
+    ],
+    "daily_report": [
+      {
+        "date": "18.12.2024",
+        "notes": "Patient experiencing blood sugar fluctuations.",
+        "dinner": "yes",
+        "drinking_amount": 2200,
+        "breakfast": "yes",
+        "lunch": "no"
+      }
+    ],
+    "current_Carehome": "Eva Carehaus",
+    "dementia": "no",
+    "station_number": "4"
+  },
+  {
+    "_id": {
+      "$oid": "676b0d2fe7d85b7f42c9eef3"
+    },
+    "name": "Justin Kaufman",
+    "person_id": 30,
+    "age": 82,
+    "gender": "Female",
+    "blood_type": "AB-",
+    "medical_condition": "Diabetes",
+    "date_of_admission": {
+      "$date": "2021-02-18T00:00:00.000Z"
+    },
+    "doctor": "Corey Sutton",
+    "hospital": "Rodriguez-Robertson",
+    "insurance_Provider": "Cigna",
+    "billing_amount": 46461.82,
+    "room_number": 186,
+    "admission_type": "Urgent",
+    "discharge_date": {
+      "$date": "2021-03-06T00:00:00.000Z"
+    },
+    "medication": [
+      "Lipitor",
+      "Betahistine"
+    ],
+    "test_results": "Abnormal",
+    "emergency_contact": "87293461",
+    "adress": [
+      {
+        "road": "Elm Drive, 7",
+        "postcode": 40004,
+        "and": "Florida"
+      }
+    ],
+    "daily_report": [
+      {
+        "date": "17.12.2024",
+        "notes": "Blood sugar levels monitored closely.",
+        "dinner": "yes",
+        "drinking_amount": 2000,
+        "breakfast": "no",
+        "lunch": "yes"
+      }
+    ],
+    "current_Carehome": "Eva Carehaus",
+    "dementia": "yes",
+    "station_number": "3"
+  },
+  {
+    "_id": {
+      "$oid": "676b0d2fe7d85b7f42c9eef4"
+    },
+    "name": "Jasmine Singleton",
+    "person_id": 31,
+    "age": 37,
+    "gender": "Male",
+    "blood_type": "AB-",
+    "medical_condition": "Obesity",
+    "date_of_admission": {
+      "$date": "2019-06-26T00:00:00.000Z"
+    },
+    "doctor": "Larry Guzman",
+    "hospital": "Thomas Group",
+    "insurance_Provider": "Blue Cross",
+    "billing_amount": 34132.62,
+    "room_number": 182,
+    "admission_type": "Emergency",
+    "discharge_date": {
+      "$date": "2019-07-24T00:00:00.000Z"
+    },
+    "medication": [
+      "Ibuprofen",
+      "Phenoxymethylpenicillin"
+    ],
+    "test_results": "Normal",
+    "emergency_contact": "98472361",
+    "adress": [
+      {
+        "road": "Willow Lane, 12",
+        "postcode": 50005,
+        "and": "Illinois"
+      }
+    ],
+    "daily_report": [
+      {
+        "date": "19.12.2024",
+        "notes": "Progress noted in weight loss program.",
+        "dinner": "yes",
+        "drinking_amount": 2400,
+        "breakfast": "yes",
+        "lunch": "yes"
+      }
+    ],
+    "current_Carehome": "Eva Carehaus",
+    "dementia": "no",
+    "station_number": "6"
+  },
+  {
+    "_id": {
+      "$oid": "676b0d2fe7d85b7f42c9eef5"
+    },
+    "name": "John Griffin",
+    "person_id": 32,
+    "age": 78,
+    "gender": "Female",
+    "blood_type": "B-",
+    "medical_condition": "Cancer",
+    "date_of_admission": {
+      "$date": "2020-04-03T00:00:00.000Z"
+    },
+    "doctor": "Kelsey Clark",
+    "hospital": "Aguirre LLC",
+    "insurance_Provider": "Aetna",
+    "billing_amount": 25948.51,
+    "room_number": 359,
+    "admission_type": "Emergency",
+    "discharge_date": {
+      "$date": "2020-04-06T00:00:00.000Z"
+    },
+    "medication": [
+      "Lipitor",
+      "Ibuprofen"
+    ],
+    "test_results": "Normal",
+    "emergency_contact": "89317652",
+    "adress": [
+      {
+        "road": "Pine Street, 50",
+        "postcode": 30003,
+        "and": "Texas"
+      }
+    ],
+    "daily_report": [
+      {
+        "date": "21.12.2024",
+        "notes": "Post-therapy recovery noted.",
+        "dinner": "no",
+        "drinking_amount": 1800,
+        "breakfast": "yes",
+        "lunch": "yes"
+      }
+    ],
+    "current_Carehome": "Eva Carehaus",
+    "dementia": "yes",
+    "station_number": "7"
+  },
+  {
+    "_id": {
+      "$oid": "676b0d2fe7d85b7f42c9eef6"
+    },
+    "name": "Lauren Barton",
+    "person_id": 33,
+    "age": 34,
+    "gender": "Male",
+    "blood_type": "O+",
+    "medical_condition": "Hypertension",
+    "date_of_admission": {
+      "$date": "2019-06-06T00:00:00.000Z"
+    },
+    "doctor": "Emily West",
+    "hospital": "Gallagher-Horton",
+    "insurance_Provider": "Medicare",
+    "billing_amount": 16036.11,
+    "room_number": 119,
+    "admission_type": "Emergency",
+    "discharge_date": {
+      "$date": "2019-06-30T00:00:00.000Z"
+    },
+    "medication": [
+      "Paracetamol",
+      "Betahistine"
+    ],
+    "test_results": "Normal",
+    "emergency_contact": "87423156",
+    "adress": [
+      {
+        "road": "Oak Avenue, 23",
+        "postcode": 20002,
+        "and": "California"
+      }
+    ],
+    "daily_report": [
+      {
+        "date": "12.12.2024",
+        "notes": "Patient's blood pressure under control.",
+        "dinner": "yes",
+        "drinking_amount": 2000,
+        "breakfast": "yes",
+        "lunch": "yes"
+      }
+    ],
+    "current_Carehome": "Eva Carehaus",
+    "dementia": "no",
+    "station_number": "4"
+  },
+  {
+    "_id": {
+      "$oid": "676b0d2fe7d85b7f42c9eef7"
+    },
+    "name": "Christina Hernandez",
+    "person_id": 34,
+    "age": 84,
+    "gender": "Female",
+    "blood_type": "O+",
+    "medical_condition": "Hypertension",
+    "date_of_admission": {
+      "$date": "2019-10-13T00:00:00.000Z"
+    },
+    "doctor": "Cody Wright",
+    "hospital": "Harris and Sons",
+    "insurance_Provider": "Aetna",
+    "billing_amount": 10803.73,
+    "room_number": 388,
+    "admission_type": "Emergency",
+    "discharge_date": {
+      "$date": "2019-10-29T00:00:00.000Z"
+    },
+    "medication": [
+      "Aspirin",
+      "Allopurinol"
+    ],
+    "test_results": "Inconclusive",
+    "emergency_contact": "89324765",
+    "adress": [
+      {
+        "road": "Elm Drive, 7",
+        "postcode": 40004,
+        "and": "Florida"
+      }
+    ],
+    "daily_report": [
+      {
+        "date": "13.12.2024",
+        "notes": "Patient responding well to medication.",
+        "dinner": "yes",
+        "drinking_amount": 1800,
+        "breakfast": "no",
+        "lunch": "yes"
+      }
+    ],
+    "current_Carehome": "Eva Carehaus",
+    "dementia": "yes",
+    "station_number": "3"
+  },
+  {
+    "_id": {
+      "$oid": "676b0d2fe7d85b7f42c9eef8"
+    },
+    "name": "Kyle Byrd",
+    "person_id": 35,
+    "age": 48,
+    "gender": "Female",
+    "blood_type": "B-",
+    "medical_condition": "Arthritis",
+    "date_of_admission": {
+      "$date": "2022-10-20T00:00:00.000Z"
+    },
+    "doctor": "Melissa Kelley",
+    "hospital": "Kerr LLC",
+    "insurance_Provider": "Aetna",
+    "billing_amount": 38872.65,
+    "room_number": 412,
+    "admission_type": "Elective",
+    "discharge_date": {
+      "$date": "2022-11-04T00:00:00.000Z"
+    },
+    "medication": [
+      "Penicillin",
+      "Phenoxymethylpenicillin"
+    ],
+    "test_results": "Abnormal",
+    "emergency_contact": "93274568",
+    "adress": [
+      {
+        "road": "Willow Lane, 12",
+        "postcode": 50005,
+        "and": "Illinois"
+      }
+    ],
+    "daily_report": [
+      {
+        "date": "18.12.2024",
+        "notes": "Patient's arthritis pain reduced.",
+        "dinner": "yes",
+        "drinking_amount": 2100,
+        "breakfast": "yes",
+        "lunch": "yes"
+      }
+    ],
+    "current_Carehome": "Eva Carehaus",
+    "dementia": "no",
+    "station_number": "7"
+  },
+  {
+    "_id": {
+      "$oid": "676b0d2fe7d85b7f42c9eef9"
+    },
+    "name": "Jasmine Singleton",
+    "person_id": 36,
+    "age": 37,
+    "gender": "Male",
+    "blood_type": "AB-",
+    "medical_condition": "Obesity",
+    "date_of_admission": {
+      "$date": "2019-06-26T00:00:00.000Z"
+    },
+    "doctor": "Larry Guzman",
+    "hospital": "Thomas Group",
+    "insurance_Provider": "Blue Cross",
+    "billing_amount": 34132.62,
+    "room_number": 182,
+    "admission_type": "Emergency",
+    "discharge_date": {
+      "$date": "2019-07-24T00:00:00.000Z"
+    },
+    "medication": [
+      "Lipitor",
+      "Ibuprofen"
+    ],
+    "test_results": "Normal",
+    "emergency_contact": "92437651",
+    "adress": [
+      {
+        "road": "Pine Street, 50",
+        "postcode": 30003,
+        "and": "Texas"
+      }
+    ],
+    "daily_report": [
+      {
+        "date": "19.12.2024",
+        "notes": "Patient progressing in weight management.",
+        "dinner": "yes",
+        "drinking_amount": 2300,
+        "breakfast": "yes",
+        "lunch": "yes"
+      }
+    ],
+    "current_Carehome": "Eva Carehaus",
+    "dementia": "no",
+    "station_number": "5"
+  },
+  {
+    "_id": {
+      "$oid": "676b0d2fe7d85b7f42c9eefa"
+    },
+    "name": "John Griffin",
+    "person_id": 37,
+    "age": 78,
+    "gender": "Female",
+    "blood_type": "B-",
+    "medical_condition": "Cancer",
+    "date_of_admission": {
+      "$date": "2020-04-03T00:00:00.000Z"
+    },
+    "doctor": "Kelsey Clark",
+    "hospital": "Aguirre LLC",
+    "insurance_Provider": "Aetna",
+    "billing_amount": 25948.51,
+    "room_number": 359,
+    "admission_type": "Emergency",
+    "discharge_date": {
+      "$date": "2020-04-06T00:00:00.000Z"
+    },
+    "medication": [
+      "Lipitor",
+      "Phenoxymethylpenicillin"
+    ],
+    "test_results": "Normal",
+    "emergency_contact": "89314276",
+    "adress": [
+      {
+        "road": "Elm Drive, 7",
+        "postcode": 40004,
+        "and": "Florida"
+      }
+    ],
+    "daily_report": [
+      {
+        "date": "21.12.2024",
+        "notes": "Recovery on track after therapy.",
+        "dinner": "yes",
+        "drinking_amount": 2000,
+        "breakfast": "yes",
+        "lunch": "no"
+      }
+    ],
+    "current_Carehome": "Eva Carehaus",
+    "dementia": "yes",
+    "station_number": "6"
+  },
+  {
+    "_id": {
+      "$oid": "676b0d2fe7d85b7f42c9eefb"
+    },
+    "name": "Justin Kaufman",
+    "person_id": 38,
+    "age": 82,
+    "gender": "Female",
+    "blood_type": "AB-",
+    "medical_condition": "Diabetes",
+    "date_of_admission": {
+      "$date": "2021-02-18T00:00:00.000Z"
+    },
+    "doctor": "Corey Sutton",
+    "hospital": "Rodriguez-Robertson",
+    "insurance_Provider": "Cigna",
+    "billing_amount": 46461.82,
+    "room_number": 186,
+    "admission_type": "Urgent",
+    "discharge_date": {
+      "$date": "2021-03-06T00:00:00.000Z"
+    },
+    "medication": [
+      "Paracetamol",
+      "Allopurinol"
+    ],
+    "test_results": "Abnormal",
+    "emergency_contact": "89234576",
+    "adress": [
+      {
+        "road": "Willow Lane, 12",
+        "postcode": 50005,
+        "and": "Illinois"
+      }
+    ],
+    "daily_report": [
+      {
+        "date": "18.12.2024",
+        "notes": "Patient monitoring blood sugar levels.",
+        "dinner": "yes",
+        "drinking_amount": 1900,
+        "breakfast": "yes",
+        "lunch": "yes"
+      }
+    ],
+    "current_Carehome": "Eva Carehaus",
+    "dementia": "no",
+    "station_number": "7"
+  },
+  {
+    "_id": {
+      "$oid": "676b0d2fe7d85b7f42c9eefc"
+    },
+    "name": "Gabrielle Russell",
+    "person_id": 39,
+    "age": 68,
+    "gender": "Male",
+    "blood_type": "AB+",
+    "medical_condition": "Cancer",
+    "date_of_admission": {
+      "$date": "2020-02-29T00:00:00.000Z"
+    },
+    "doctor": "Tina Rogers",
+    "hospital": "Berry-Gallagher",
+    "insurance_Provider": "Medicare",
+    "billing_amount": 2628.95,
+    "room_number": 380,
+    "admission_type": "Emergency",
+    "discharge_date": {
+      "$date": "2020-03-12T00:00:00.000Z"
+    },
+    "medication": [
+      "Paracetamol",
+      "Aspirin"
+    ],
+    "test_results": "Normal",
+    "emergency_contact": "82914376",
+    "adress": [
+      {
+        "road": "Elm Drive, 7",
+        "postcode": 40004,
+        "and": "Florida"
+      }
+    ],
+    "daily_report": [
+      {
+        "date": "12.12.2024",
+        "notes": "Patient's condition stabilized.",
+        "dinner": "yes",
+        "drinking_amount": 2000,
+        "breakfast": "yes",
+        "lunch": "yes"
+      }
+    ],
+    "current_Carehome": "Eva Carehaus",
+    "dementia": "no",
+    "station_number": "5"
+  },
+  {
+    "_id": {
+      "$oid": "676b0d2fe7d85b7f42c9eefd"
+    },
+    "name": "Mary Brown",
+    "person_id": 40,
+    "age": 31,
+    "gender": "Male",
+    "blood_type": "A+",
+    "medical_condition": "Cancer",
+    "date_of_admission": {
+      "$date": "2021-04-29T00:00:00.000Z"
+    },
+    "doctor": "Dennis Mitchell",
+    "hospital": "Brown LLC",
+    "insurance_Provider": "Aetna",
+    "billing_amount": 13794.72,
+    "room_number": 194,
+    "admission_type": "Urgent",
+    "discharge_date": {
+      "$date": "2021-05-06T00:00:00.000Z"
+    },
+    "medication": [
+      "Aspirin",
+      "Phenoxymethylpenicillin"
+    ],
+    "test_results": "Inconclusive",
+    "emergency_contact": "87421536",
+    "adress": [
+      {
+        "road": "Willow Lane, 12",
+        "postcode": 50005,
+        "and": "Illinois"
+      }
+    ],
+    "daily_report": [
+      {
+        "date": "15.12.2024",
+        "notes": "Patient undergoing therapy.",
+        "dinner": "yes",
+        "drinking_amount": 1900,
+        "breakfast": "yes",
+        "lunch": "yes"
+      }
+    ],
+    "current_Carehome": "Eva Carehaus",
+    "dementia": "yes",
+    "station_number": "6"
+  },
+  {
+    "_id": {
+      "$oid": "676b0d2fe7d85b7f42c9eefe"
+    },
+    "name": "Evan Martinez",
+    "person_id": 41,
+    "age": 42,
+    "gender": "Female",
+    "blood_type": "B+",
+    "medical_condition": "Obesity",
+    "date_of_admission": {
+      "$date": "2021-02-07T00:00:00.000Z"
+    },
+    "doctor": "Robin Rodriguez",
+    "hospital": "Anderson, Chase and Anderson",
+    "insurance_Provider": "Medicare",
+    "billing_amount": 9991.07,
+    "room_number": 199,
+    "admission_type": "Emergency",
+    "discharge_date": {
+      "$date": "2021-03-06T00:00:00.000Z"
+    },
+    "medication": [
+      "Aspirin",
+      "Lipitor"
+    ],
+    "test_results": "Normal",
+    "emergency_contact": "91234785",
+    "adress": [
+      {
+        "road": "Oak Avenue, 23",
+        "postcode": 20002,
+        "and": "California"
+      }
+    ],
+    "daily_report": [
+      {
+        "date": "11.12.2024",
+        "notes": "Weight management ongoing.",
+        "dinner": "no",
+        "drinking_amount": 2100,
+        "breakfast": "yes",
+        "lunch": "yes"
+      }
+    ],
+    "current_Carehome": "Eva Carehaus",
+    "dementia": "no",
+    "station_number": "4"
+  },
+  {
+    "_id": {
+      "$oid": "676b0d2fe7d85b7f42c9eeff"
+    },
+    "name": "Amanda Stein DVM",
+    "person_id": 42,
+    "age": 56,
+    "gender": "Female",
+    "blood_type": "O+",
+    "medical_condition": "Diabetes",
+    "date_of_admission": {
+      "$date": "2023-10-28T00:00:00.000Z"
+    },
+    "doctor": "Sergio Conner",
+    "hospital": "Yu, Garcia and Jones",
+    "insurance_Provider": "Aetna",
+    "billing_amount": 18904.74,
+    "room_number": 404,
+    "admission_type": "Urgent",
+    "discharge_date": {
+      "$date": "2023-11-25T00:00:00.000Z"
+    },
+    "medication": [
+      "Penicillin",
+      "Paracetamol"
+    ],
+    "test_results": "Inconclusive",
+    "emergency_contact": "89347162",
+    "adress": [
+      {
+        "road": "Pine Street, 50",
+        "postcode": 30003,
+        "and": "Texas"
+      }
+    ],
+    "daily_report": [
+      {
+        "date": "17.12.2024",
+        "notes": "Patient showing signs of progress.",
+        "dinner": "yes",
+        "drinking_amount": 2400,
+        "breakfast": "yes",
+        "lunch": "yes"
+      }
+    ],
+    "current_Carehome": "Eva Carehaus",
+    "dementia": "yes",
+    "station_number": "7"
+  },
+  {
+    "_id": {
+      "$oid": "676b0d2fe7d85b7f42c9ef00"
+    },
+    "name": "Paul Graham",
+    "person_id": 43,
+    "age": 60,
+    "gender": "Female",
+    "blood_type": "A+",
+    "medical_condition": "Hypertension",
+    "date_of_admission": {
+      "$date": "2020-08-08T00:00:00.000Z"
+    },
+    "doctor": "Mr. John Short",
+    "hospital": "Merritt Inc",
+    "insurance_Provider": "Medicare",
+    "billing_amount": 44423.1,
+    "room_number": 301,
+    "admission_type": "Elective",
+    "discharge_date": {
+      "$date": "2020-08-29T00:00:00.000Z"
+    },
+    "medication": [
+      "Aspirin",
+      "Ibuprofen"
+    ],
+    "test_results": "Normal",
+    "emergency_contact": "89461237",
+    "adress": [
+      {
+        "road": "Elm Drive, 7",
+        "postcode": 40004,
+        "and": "Florida"
+      }
+    ],
+    "daily_report": [
+      {
+        "date": "13.12.2024",
+        "notes": "Patient has stabilized post treatment.",
+        "dinner": "yes",
+        "drinking_amount": 1900,
+        "breakfast": "yes",
+        "lunch": "yes"
+      }
+    ],
+    "current_Carehome": "Eva Carehaus",
+    "dementia": "no",
+    "station_number": "5"
+  },
+  {
+    "_id": {
+      "$oid": "676b0d2fe7d85b7f42c9ef01"
+    },
+    "name": "Lisa Gonzalez",
+    "person_id": 44,
+    "age": 42,
+    "gender": "Male",
+    "blood_type": "A+",
+    "medical_condition": "Asthma",
+    "date_of_admission": {
+      "$date": "2023-07-09T00:00:00.000Z"
+    },
+    "doctor": "Gina Maddox",
+    "hospital": "Lee, Rasmussen and Anderson",
+    "insurance_Provider": "Medicare",
+    "billing_amount": 22749.28,
+    "room_number": 223,
+    "admission_type": "Elective",
+    "discharge_date": {
+      "$date": "2023-07-30T00:00:00.000Z"
+    },
+    "medication": [
+      "Paracetamol",
+      "Lipitor"
+    ],
+    "test_results": "Inconclusive",
+    "emergency_contact": "83924157",
+    "adress": [
+      {
+        "road": "Oak Avenue, 23",
+        "postcode": 20002,
+        "and": "California"
+      }
+    ],
+    "daily_report": [
+      {
+        "date": "15.12.2024",
+        "notes": "Patient recovering from breathing issues.",
+        "dinner": "yes",
+        "drinking_amount": 2000,
+        "breakfast": "yes",
+        "lunch": "yes"
+      }
+    ],
+    "current_Carehome": "Eva Carehaus",
+    "dementia": "no",
+    "station_number": "4"
+  },
+  {
+    "_id": {
+      "$oid": "676b0d2fe7d85b7f42c9ef02"
+    },
+    "name": "Angela Sanchez",
+    "person_id": 45,
+    "age": 81,
+    "gender": "Female",
+    "blood_type": "O-",
+    "medical_condition": "Arthritis",
+    "date_of_admission": {
+      "$date": "2021-06-13T00:00:00.000Z"
+    },
+    "doctor": "Heather Warner",
+    "hospital": "Johnson, George and Shelton",
+    "insurance_Provider": "Cigna",
+    "billing_amount": 21965.08,
+    "room_number": 410,
+    "admission_type": "Emergency",
+    "discharge_date": {
+      "$date": "2021-06-23T00:00:00.000Z"
+    },
+    "medication": [
+      "Penicillin",
+      "Phenoxymethylpenicillin"
+    ],
+    "test_results": "Abnormal",
+    "emergency_contact": "87324169",
+    "adress": [
+      {
+        "road": "Willow Lane, 12",
+        "postcode": 50005,
+        "and": "Illinois"
+      }
+    ],
+    "daily_report": [
+      {
+        "date": "14.12.2024",
+        "notes": "Patient's joint pain reduced significantly.",
+        "dinner": "yes",
+        "drinking_amount": 1800,
+        "breakfast": "yes",
+        "lunch": "yes"
+      }
+    ],
+    "current_Carehome": "Eva Carehaus",
+    "dementia": "yes",
+    "station_number": "6"
+  },
+  {
+    "_id": {
+      "$oid": "676b0d2fe7d85b7f42c9ef03"
+    },
+    "name": "Kimberly Wheeler",
+    "person_id": 46,
+    "age": 71,
+    "gender": "Female",
+    "blood_type": "A+",
+    "medical_condition": "Obesity",
+    "date_of_admission": {
+      "$date": "2022-11-23T00:00:00.000Z"
+    },
+    "doctor": "Amber Hayes",
+    "hospital": "White, Mclean and Miller",
+    "insurance_Provider": "UnitedHealthcare",
+    "billing_amount": 8311.4,
+    "room_number": 205,
+    "admission_type": "Urgent",
+    "discharge_date": {
+      "$date": "2022-11-29T00:00:00.000Z"
+    },
+    "medication": [
+      "Lipitor",
+      "Nefopam"
+    ],
+    "test_results": "Abnormal",
+    "emergency_contact": "89243675",
+    "adress": [
+      {
+        "road": "Pine Street, 50",
+        "postcode": 30003,
+        "and": "Texas"
+      }
+    ],
+    "daily_report": [
+      {
+        "date": "16.12.2024",
+        "notes": "Patient responding positively to weight management therapy.",
+        "dinner": "yes",
+        "drinking_amount": 1900,
+        "breakfast": "yes",
+        "lunch": "yes"
+      }
+    ],
+    "current_Carehome": "Eva Carehaus",
+    "dementia": "no",
+    "station_number": "7"
+  },
+  {
+    "_id": {
+      "$oid": "676b0d2fe7d85b7f42c9ef04"
+    },
+    "name": "Francisco Ritter",
+    "person_id": 47,
+    "age": 78,
+    "gender": "Male",
+    "blood_type": "O+",
+    "medical_condition": "Cancer",
+    "date_of_admission": {
+      "$date": "2020-12-31T00:00:00.000Z"
+    },
+    "doctor": "Karen Nelson",
+    "hospital": "Lewis-Boone",
+    "insurance_Provider": "Blue Cross",
+    "billing_amount": 43547.77,
+    "room_number": 134,
+    "admission_type": "Urgent",
+    "discharge_date": {
+      "$date": "2021-01-06T00:00:00.000Z"
+    },
+    "medication": [
+      "Lipitor",
+      "Paracetamol"
+    ],
+    "test_results": "Abnormal",
+    "emergency_contact": "92314785",
+    "adress": [
+      {
+        "road": "Oak Avenue, 23",
+        "postcode": 20002,
+        "and": "California"
+      }
+    ],
+    "daily_report": [
+      {
+        "date": "17.12.2024",
+        "notes": "Patient undergoing chemotherapy.",
+        "dinner": "no",
+        "drinking_amount": 2200,
+        "breakfast": "yes",
+        "lunch": "no"
+      }
+    ],
+    "current_Carehome": "Eva Carehaus",
+    "dementia": "yes",
+    "station_number": "5"
+  },
+  {
+    "_id": {
+      "$oid": "676b0d2fe7d85b7f42c9ef05"
+    },
+    "name": "Kenneth Smith",
+    "person_id": 48,
+    "age": 38,
+    "gender": "Male",
+    "blood_type": "A-",
+    "medical_condition": "Hypertension",
+    "date_of_admission": {
+      "$date": "2020-02-20T00:00:00.000Z"
+    },
+    "doctor": "Brenda Bates DVM",
+    "hospital": "Browning PLC",
+    "insurance_Provider": "Medicare",
+    "billing_amount": 24509.04,
+    "room_number": 407,
+    "admission_type": "Urgent",
+    "discharge_date": {
+      "$date": "2020-02-27T00:00:00.000Z"
+    },
+    "medication": [
+      "Lipitor",
+      "Aspirin"
+    ],
+    "test_results": "Inconclusive",
+    "emergency_contact": "89314765",
+    "adress": [
+      {
+        "road": "Elm Drive, 7",
+        "postcode": 40004,
+        "and": "Florida"
+      }
+    ],
+    "daily_report": [
+      {
+        "date": "14.12.2024",
+        "notes": "Patient experiencing mild blood pressure changes.",
+        "dinner": "yes",
+        "drinking_amount": 2000,
+        "breakfast": "yes",
+        "lunch": "yes"
+      }
+    ],
+    "current_Carehome": "Eva Carehaus",
+    "dementia": "no",
+    "station_number": "4"
+  },
+  {
+    "_id": {
+      "$oid": "676b0d2fe7d85b7f42c9ef06"
+    },
+    "name": "Christina Martinez",
+    "person_id": 49,
+    "age": 28,
+    "gender": "Female",
+    "blood_type": "AB-",
+    "medical_condition": "Arthritis",
+    "date_of_admission": {
+      "$date": "2020-12-30T00:00:00.000Z"
+    },
+    "doctor": "Gabriella White",
+    "hospital": "Saunders, Blake and Bell",
+    "insurance_Provider": "Aetna",
+    "billing_amount": 1997.33,
+    "room_number": 188,
+    "admission_type": "Urgent",
+    "discharge_date": {
+      "$date": "2021-01-18T00:00:00.000Z"
+    },
+    "medication": [
+      "Paracetamol",
+      "Phenoxymethylpenicillin"
+    ],
+    "test_results": "Normal",
+    "emergency_contact": "87431695",
+    "adress": [
+      {
+        "road": "Pine Street, 50",
+        "postcode": 30003,
+        "and": "Texas"
+      }
+    ],
+    "daily_report": [
+      {
+        "date": "15.12.2024",
+        "notes": "Joint pain reduced significantly.",
+        "dinner": "yes",
+        "drinking_amount": 1800,
+        "breakfast": "yes",
+        "lunch": "no"
+      }
+    ],
+    "current_Carehome": "Eva Carehaus",
+    "dementia": "yes",
+    "station_number": "7"
+  },
+  {
+    "_id": {
+      "$oid": "676b0d2fe7d85b7f42c9ef07"
+    },
+    "name": "Ryan Richmond",
+    "person_id": 52,
+    "age": 84,
+    "gender": "Male",
+    "blood_type": "A-",
+    "medical_condition": "Cancer",
+    "date_of_admission": {
+      "$date": "2020-03-28T00:00:00.000Z"
+    },
+    "doctor": "Sean Thomas",
+    "hospital": "Allen and Sons",
+    "insurance_Provider": "Cigna",
+    "billing_amount": 6575.14,
+    "room_number": 213,
+    "admission_type": "Emergency",
+    "discharge_date": {
+      "$date": "2020-04-03T00:00:00.000Z"
+    },
+    "medication": [
+      "Aspirin",
+      "Ibuprofen"
+    ],
+    "test_results": "Abnormal",
+    "emergency_contact": "98321465",
+    "adress": [
+      {
+        "road": "Oak Avenue, 23",
+        "postcode": 20002,
+        "and": "California"
+      }
+    ],
+    "daily_report": [
+      {
+        "date": "18.12.2024",
+        "notes": "Chemotherapy in progress.",
+        "dinner": "no",
+        "drinking_amount": 2200,
+        "breakfast": "yes",
+        "lunch": "yes"
+      }
+    ],
+    "current_Carehome": "Eva Carehaus",
+    "dementia": "no",
+    "station_number": "3"
+  },
+  {
+    "_id": {
+      "$oid": "676b0d2fe7d85b7f42c9ef08"
+    },
+    "name": "Linda Wheeler",
+    "person_id": 53,
+    "age": 32,
+    "gender": "Male",
+    "blood_type": "A-",
+    "medical_condition": "Arthritis",
+    "date_of_admission": {
+      "$date": "2020-05-07T00:00:00.000Z"
+    },
+    "doctor": "Aaron Burnett",
+    "hospital": "Wilson, Andrews and Webb",
+    "insurance_Provider": "Blue Cross",
+    "billing_amount": 37421.3,
+    "room_number": 405,
+    "admission_type": "Emergency",
+    "discharge_date": {
+      "$date": "2020-06-04T00:00:00.000Z"
+    },
+    "medication": [
+      "Lipitor",
+      "Betahistine"
+    ],
+    "test_results": "Abnormal",
+    "emergency_contact": "87431692",
+    "adress": [
+      {
+        "road": "Willow Lane, 12",
+        "postcode": 50005,
+        "and": "Illinois"
+      }
+    ],
+    "daily_report": [
+      {
+        "date": "20.12.2024",
+        "notes": "Patient recovering steadily from joint pain.",
+        "dinner": "yes",
+        "drinking_amount": 2000,
+        "breakfast": "yes",
+        "lunch": "yes"
+      }
+    ],
+    "current_Carehome": "Eva Carehaus",
+    "dementia": "yes",
+    "station_number": "6"
+  },
+  {
+    "_id": {
+      "$oid": "676b0d2fe7d85b7f42c9ef09"
+    },
+    "name": "Anna Phillips",
+    "person_id": 54,
+    "age": 57,
+    "gender": "Male",
+    "blood_type": "O-",
+    "medical_condition": "Obesity",
+    "date_of_admission": {
+      "$date": "2022-04-24T00:00:00.000Z"
+    },
+    "doctor": "Caleb Rasmussen",
+    "hospital": "Castro LLC",
+    "insurance_Provider": "Medicare",
+    "billing_amount": 4679.12,
+    "room_number": 358,
+    "admission_type": "Elective",
+    "discharge_date": {
+      "$date": "2022-05-22T00:00:00.000Z"
+    },
+    "medication": [
+      "Ibuprofen",
+      "Paracetamol"
+    ],
+    "test_results": "Normal",
+    "emergency_contact": "89321475",
+    "adress": [
+      {
+        "road": "Elm Drive, 7",
+        "postcode": 40004,
+        "and": "Florida"
+      }
+    ],
+    "daily_report": [
+      {
+        "date": "14.12.2024",
+        "notes": "Weight management improving steadily.",
+        "dinner": "yes",
+        "drinking_amount": 2300,
+        "breakfast": "yes",
+        "lunch": "yes"
+      }
+    ],
+    "current_Carehome": "Eva Carehaus",
+    "dementia": "no",
+    "station_number": "7"
+  },
+  {
+    "_id": {
+      "$oid": "676b0d2fe7d85b7f42c9ef0a"
+    },
+    "name": "Juan Patel",
+    "person_id": 55,
+    "age": 66,
+    "gender": "Female",
+    "blood_type": "AB-",
+    "medical_condition": "Diabetes",
+    "date_of_admission": {
+      "$date": "2021-07-30T00:00:00.000Z"
+    },
+    "doctor": "Christopher Castaneda",
+    "hospital": "Norris-Robinson",
+    "insurance_Provider": "Aetna",
+    "billing_amount": 22787.28,
+    "room_number": 147,
+    "admission_type": "Urgent",
+    "discharge_date": {
+      "$date": "2021-08-27T00:00:00.000Z"
+    },
+    "medication": [
+      "Paracetamol",
+      "Lipitor"
+    ],
+    "test_results": "Abnormal",
+    "emergency_contact": "98347562",
+    "adress": [
+      {
+        "road": "Oak Avenue, 23",
+        "postcode": 20002,
+        "and": "California"
+      }
+    ],
+    "daily_report": [
+      {
+        "date": "16.12.2024",
+        "notes": "Patient's blood sugar levels under control.",
+        "dinner": "yes",
+        "drinking_amount": 2200,
+        "breakfast": "yes",
+        "lunch": "yes"
+      }
+    ],
+    "current_Carehome": "Eva Carehaus",
+    "dementia": "yes",
+    "station_number": "4"
+  },
+  {
+    "_id": {
+      "$oid": "677d652fe5fa038cc13dfe0f"
+    },
+    "name": "mamun",
+    "age": 29,
+    "gender": "Male",
+    "blood_type": "0+",
+    "medication": [],
+    "station_number": "7",
+    "Adress": [],
+    "Daily_report": [],
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "677d8bcde5fa038cc13dfe3b"
+    },
+    "name": "mah",
+    "age": 6,
+    "gender": "Male",
+    "blood_type": "ew",
+    "medication": [],
+    "station_number": "7",
+    "Adress": [],
+    "Daily_report": [],
+    "__v": 0
+  }
+]

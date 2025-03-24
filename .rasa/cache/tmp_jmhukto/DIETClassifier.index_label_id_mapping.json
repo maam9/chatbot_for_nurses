@@ -1,0 +1,17 @@
+{
+  "0": "ask_all_by_station",
+  "1": "ask_all_patients",
+  "2": "ask_daily_report",
+  "3": "ask_disease_info",
+  "4": "ask_disease_precaution",
+  "5": "ask_medication",
+  "6": "ask_patient_medical_details",
+  "7": "ask_patient_personal_details",
+  "8": "ask_to_predict_disease",
+  "9": "goodbye",
+  "10": "greet",
+  "11": "lost_person_form",
+  "12": "predict_disease",
+  "13": "provide_station_number",
+  "14": "request_appointment"
+}

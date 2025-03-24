@@ -1,0 +1,166 @@
+version: "3.1"
+
+nlu:
+- intent: greet
+  examples: |
+    - hello
+    - hi there
+    - hey
+    - good morning
+    - hi
+    - hallo
+    - hello again
+    - hi, how are you?
+    - hey, what's up?
+    - good day
+
+- intent: goodbye
+  examples: |
+    - goodbye
+    - bye
+    - see you later
+    - thanks, bye
+    - farewell
+    - catch you later
+    - see you soon
+    - take care
+
+- intent: provide_station_number
+  examples: |
+    - 1
+    - 2
+    - 5
+    - 7
+    - station 3
+    - one
+    - two
+    - five
+    - seven
+    - station three
+
+- intent: predict_disease
+  examples: |
+    - issues [fever](symptoms)
+    - my issues are [fever](symptoms)
+    - here are my issues [burning_micturition](symptoms)
+    - here are my symptome [fever](symptoms)
+    - I'm experiencing [fever](symptoms)
+    - I have a case of [fever](symptoms)
+    - symptoms are [fever](symptoms)
+    - the symptoms are [fever](symptoms)
+
+- intent: ask_to_predict_disease
+  examples: |
+    - The patient is sick
+    - My patient is not well
+    - The patient is feeling unwell
+    - The patient doesn't feel good
+    - I think the patient is unwell
+    - The patient appears ill
+    - a patient is sick
+    - I am not well
+    - I'm feeling unwell
+    - I don't feel good what happend 
+    - predict a disease
+
+- intent: ask_disease_info
+  examples: |
+    - I want to learn about [Brain hemorrhage](disease_name)
+    - Do you have info on [Varicose veins](disease_name)
+    - I'd like to learn about [Heart attack](disease_name)
+    - I am interested in [Cervical spondylosis](disease_name)
+    - I'd like info on [Hypothyroidism](disease_name)
+    - tell me about [Urinary tract infection](disease_name)
+    - Can you provide details on [Brain hemorrhage](disease_name)?
+    - I need information on [Heart attack](disease_name)
+
+- intent: ask_disease_precaution
+  examples: |
+    - how to prevent [Malaria](disease_name)
+    - precaution for [Drug Reaction](disease_name)
+    - what are the precautions for [Hypothyroidism](disease_name)
+    - what to do/precautions against [Heart attack](disease_name)
+    - precautions against [Hypothyroidism](disease_name)
+    - What measures can prevent [Malaria](disease_name)?
+    - Give me preventive advice for [Drug Reaction](disease_name)
+
+- intent: ask_medication
+  examples: |
+    - I want to see the medication plan for [Bobby JacksOn](patient_name)
+    - show medication of [DaNnY sMitH](patient_name)
+    - medication plan of [ChRISTopher BerG](patient_name)
+    - Can you show me the medication plan for [Bobby JacksOn](patient_name)?
+    - I'd like to see the meds for [DaNnY sMitH](patient_name)
+
+- intent: ask_all_patients
+  examples: |
+    - I want to see all patient
+    - show me all patients
+    - list every patient
+    - can you list all patients
+    - which patients are in this House?
+    - Display all patients
+    - Give me the full list of patients
+
+- intent: ask_all_by_station
+  examples: |
+    - show me my patient list in station [5](station_number)
+    - list all patients in station [7](station_number)
+    - show me my patient list in station [1](station_number)
+    - Provide the patient list for station [5](station_number)
+    - I need the list of patients in station [7](station_number)
+
+- intent: ask_patient_personal_details
+  examples: |
+    - show me personal detail of [Bobby JacksOn](patient_name)
+    - I want the personal details of [DaNnY sMitH](patient_name)
+    - give me personal info about [Linda Chavez](patient_name)
+    - show me patient [Michael Burns](patient_name)'s personal details
+    - Can you display the personal details of [Bobby JacksOn](patient_name)?
+    - I'd like to see personal information for [DaNnY sMitH](patient_name)
+
+- intent: ask_patient_medical_details
+  examples: |
+    - show me medical condition of [Bobby JacksOn](patient_name)
+    - what is the medical history of [DaNnY sMitH](patient_name)
+    - can you tell me the medical details about [Linda Chavez](patient_name)
+    - I'd like to know the health condition of [Michael Burns](patient_name)
+    - show me the medical info of [Theresa Mendoza](patient_name)
+    - Provide the medical history for [Bobby JacksOn](patient_name)
+    - I need the health details of [DaNnY sMitH](patient_name)
+
+- intent: ask_daily_report
+  examples: |
+    - How was the daily report of [DaNnY sMitH](patient_name)
+    - I want the daily report for [Bobby JacksOn](patient_name)
+    - give me the daily logs of [Linda Chavez](patient_name)
+    - can you show me the daily report for [Michael Burns](patient_name)
+    - daily report of [Michael Burns](patient_name)
+    - Please show me the daily report for [DaNnY sMitH](patient_name)
+    - I need the daily logs for [Bobby JacksOn](patient_name)
+
+- intent: request_appointment
+  examples: |
+    - I want to have an appointment
+    - I need an appointment with doctor
+    - I want to have an appointment with a home doctor
+    - I want to schedule a visit
+    - I'd like to book an appointment
+    - appointment
+    - Dr appointment
+    - home Dr. appointment
+    - Can I book an appointment?
+    - I would like to see a doctor
+
+- intent: lost_person_form
+  examples: |
+    - A person is lost from the station, can I get the lost form?
+    - I need a lost person form
+    - Where can I find the lost person form?
+    - Please provide me the missing person form
+    - give me person lost form
+    - person lost form
+    - lost form
+    - I require the lost person form
+    - Can I have the lost person form?
+    - Provide the lost person form

@@ -1,0 +1,715 @@
+[{
+  "_id": {
+    "$oid": "6769709e61cc2ffdf2f115cf"
+  },
+  "Name": "ChRISTopher BerG",
+  "schedule": "daily",
+  "Paracetamol": [
+    "8:00",
+    "",
+    "20:00"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6769709e61cc2ffdf2f115d0"
+  },
+  "Name": "Bobby JacksOn",
+  "schedule": "daily",
+  "Aspirin": [
+    "8:00"
+  ],
+  "c": [
+    "beim bedarf"
+  ],
+  "Lipitor": [
+    "8:00",
+    " ",
+    " "
+  ]
+},
+{
+  "_id": {
+    "$oid": "6769709e61cc2ffdf2f115d1"
+  },
+  "Name": "LesLTErRyie",
+  "schedule": "daily",
+  "Aspirin": [
+    "Only when need "
+  ],
+  "Iboprofin": [
+    "only in emergency "
+  ]
+},
+{
+  "_id": {
+    "$oid": "6769709e61cc2ffdf2f115d2"
+  },
+  "Name": "DaNnY sMitH",
+  "schedule": "Not regular",
+  "Paracetamol": [
+    "Only when need "
+  ],
+  "Omeprazole": [
+    "only in emergency "
+  ],
+  "Penicillin": [
+    "every 48 hr"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6769709e61cc2ffdf2f115d3"
+  },
+  "Name": "adrIENNE bEll",
+  "schedule": "Not regular",
+  "Paracetamol": [
+    "Only when need "
+  ],
+  "Aspirin": [
+    "8:00",
+    "15:00",
+    "21:00"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6769709e61cc2ffdf2f115d4"
+  },
+  "Name": "andrEw waTtS",
+  "schedule": "daily",
+  "Penicillin": [
+    "8:00",
+    "15:00",
+    "21:00"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6769709e61cc2ffdf2f115d5"
+  },
+  "Name": "EMILY JOHNSOn",
+  "schedule": "daily",
+  "Paracetamol": [
+    "8:00",
+    "15:00",
+    "21:00"
+  ],
+  "Aspirin": [
+    "8:00",
+    "15:00",
+    "21:00"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6769709e61cc2ffdf2f115d6"
+  },
+  "Name": "edwArD EDWaRDs",
+  "schedule": "daily",
+  "Penicillin": [
+    "8:00",
+    " ",
+    "21:00"
+  ],
+  "Aspirin": [
+    "8:00",
+    " ",
+    "21:00"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6769709e61cc2ffdf2f115d7"
+  },
+  "Name": "mIchElLe daniELs",
+  "schedule": "Aspirin 1 in every 48hr ",
+  "Aspirin": [
+    "",
+    "14:00",
+    ""
+  ],
+  "Paracetamol": [
+    "8:00",
+    "",
+    "20:00"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6769709e61cc2ffdf2f115d8"
+  },
+  "Name": "aaRon MARtiNeZ",
+  "schedule": "daily",
+  "Lipitor( 0-0-1)": [
+    "",
+    "",
+    "20:00"
+  ],
+  "Ibuprofen(1-0-1)": [
+    "8:00",
+    "14:00",
+    "20:00"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6769709e61cc2ffdf2f115d9"
+  },
+  "Name": "Teresa Gonzalez",
+  "schedule": "daily",
+  "Lipitor": [
+    "8:00",
+    "14:00",
+    "20:00"
+  ],
+  "Ibuprofen": [
+    "",
+    "",
+    "20:00"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6769709e61cc2ffdf2f115da"
+  },
+  "Name": "Rodney Maynard",
+  "schedule": "Sunday and Wietneseday",
+  "Phenoxymethylpenicillin": [
+    " ",
+    "",
+    "20:00"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6769709e61cc2ffdf2f115db"
+  },
+  "Name": "Kevin Johnson",
+  "schedule": " daily",
+  "Lipitor": [
+    "",
+    "14:00",
+    ""
+  ],
+  "Allopurinol": [
+    "8:00",
+    "14:00",
+    "20:00"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6769709e61cc2ffdf2f115dc"
+  },
+  "Name": "Rebecca Parsons",
+  "schedule": "daily",
+  "Paracetamol": [
+    "",
+    "",
+    "20:00"
+  ],
+  "Ibuprofen": [
+    "8:00",
+    "14:00",
+    "20:00"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6769709e61cc2ffdf2f115dd"
+  },
+  "Name": "Linda Chavez",
+  "schedule": "not daily",
+  "Penicillin": [
+    "8:00",
+    "",
+    ""
+  ],
+  "Phenoxymethylpenicillin": [
+    "",
+    "14:00",
+    ""
+  ]
+},
+{
+  "_id": {
+    "$oid": "6769709e61cc2ffdf2f115de"
+  },
+  "Name": "Jennifer Rodriguez",
+  "schedule": "daily",
+  "Lipitor": [
+    "8:00",
+    "",
+    "20:00"
+  ],
+  "Aspirin": [
+    "",
+    "14:00",
+    ""
+  ]
+},
+{
+  "_id": {
+    "$oid": "6769709e61cc2ffdf2f115df"
+  },
+  "Name": "Anna Adams",
+  "schedule": "not daily",
+  "Paracetamol": [
+    "8:00",
+    "14:00",
+    "20:00"
+  ],
+  "Nefopam": [
+    "",
+    "",
+    "20:00"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6769709e61cc2ffdf2f115e0"
+  },
+  "Name": "Mariah Williams",
+  "schedule": "1 in every 72hr ",
+  "Penicillin": [
+    "",
+    "14:00",
+    ""
+  ]
+},
+{
+  "_id": {
+    "$oid": "6769709e61cc2ffdf2f115e1"
+  },
+  "Name": "Brendan Moody",
+  "schedule": " daily",
+  "Paracetamol": [
+    "8:00",
+    "",
+    "20:00"
+  ],
+  "Lipitor": [
+    "",
+    "",
+    "20:00"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6769709e61cc2ffdf2f115e2"
+  },
+  "Name": "Michael Burns",
+  "schedule": "daily",
+  "Aspirin": [
+    "8:00",
+    "",
+    ""
+  ],
+  "Ibuprofen": [
+    "8:00",
+    "14:00",
+    "20:00"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6769709e61cc2ffdf2f115e3"
+  },
+  "Name": "Miguel Baker",
+  "schedule": "not daily",
+  "Penicillin": [
+    "8:00",
+    "",
+    ""
+  ],
+  "Betahistine": [
+    "",
+    "14:00",
+    ""
+  ]
+},
+{
+  "_id": {
+    "$oid": "6769709e61cc2ffdf2f115e4"
+  },
+  "Name": "Mr. Christopher Miller",
+  "schedule": "daily",
+  "Lipitor": [
+    "8:00",
+    "14:00",
+    "20:00"
+  ],
+  "Betahistine": [
+    "",
+    "",
+    "20:00"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6769709e61cc2ffdf2f115e5"
+  },
+  "Name": "Theresa Mendoza",
+  "schedule": "daily",
+  "Penicillin": [
+    "",
+    "14:00",
+    ""
+  ],
+  "Allopurinol": [
+    "8:00",
+    "",
+    "20:00"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6769709e61cc2ffdf2f115e6"
+  },
+  "Name": "Laura Adams",
+  "schedule": "daily",
+  "Ibuprofen": [
+    "8:00",
+    "",
+    "20:00"
+  ],
+  "Nefopam": [
+    "",
+    "14:00",
+    ""
+  ]
+},
+{
+  "_id": {
+    "$oid": "6769709e61cc2ffdf2f115e7"
+  },
+  "Name": "Lauren Barton",
+  "schedule": "not daily",
+  "Paracetamol": [
+    "8:00",
+    "",
+    "20:00"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6769709e61cc2ffdf2f115e8"
+  },
+  "Name": "Christina Hernandez",
+  "schedule": "daily",
+  "Aspirin": [
+    "",
+    "14:00",
+    ""
+  ],
+  "Allopurinol": [
+    "8:00",
+    "",
+    ""
+  ]
+},
+{
+  "_id": {
+    "$oid": "6769709e61cc2ffdf2f115e9"
+  },
+  "Name": "Kyle Byrd",
+  "schedule": "not daily",
+  "Penicillin": [
+    "8:00",
+    "",
+    ""
+  ],
+  "Nefopam": [
+    "",
+    "14:00",
+    ""
+  ]
+},
+{
+  "_id": {
+    "$oid": "6769709e61cc2ffdf2f115ea"
+  },
+  "Name": "Jasmine Singleton",
+  "schedule": "daily",
+  "Ibuprofen": [
+    "8:00",
+    "",
+    "20:00"
+  ],
+  "Lipitor": [
+    "",
+    "14:00",
+    ""
+  ]
+},
+{
+  "_id": {
+    "$oid": "6769709e61cc2ffdf2f115eb"
+  },
+  "Name": "John Griffin",
+  "schedule": "not daily",
+  "Lipitor": [
+    "8:00",
+    "",
+    "20:00"
+  ],
+  "Phenoxymethylpenicillin": [
+    "",
+    "",
+    "20:00"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6769709e61cc2ffdf2f115ec"
+  },
+  "Name": "Justin Kaufman",
+  "schedule": "daily",
+  "Lipitor": [
+    "8:00",
+    "14:00",
+    "20:00"
+  ],
+  "Aspirin": [
+    "",
+    "14:00",
+    ""
+  ]
+},
+{
+  "_id": {
+    "$oid": "6769709e61cc2ffdf2f115ed"
+  },
+  "Name": "Gabrielle Russell",
+  "schedule": "not daily",
+  "Paracetamol": [
+    "8:00",
+    "",
+    "20:00"
+  ],
+  "Aspirin": [
+    "",
+    "14:00",
+    ""
+  ]
+},
+{
+  "_id": {
+    "$oid": "6769709e61cc2ffdf2f115ee"
+  },
+  "Name": "Mary Brown",
+  "schedule": "daily",
+  "Aspirin": [
+    "8:00",
+    "14:00",
+    "20:00"
+  ],
+  "Phenoxymethylpenicillin": [
+    "",
+    "",
+    "20:00"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6769709e61cc2ffdf2f115ef"
+  },
+  "Name": "Evan Martinez",
+  "schedule": "not daily",
+  "Aspirin": [
+    "8:00",
+    "",
+    "20:00"
+  ],
+  "Lipitor": [
+    "",
+    "14:00",
+    ""
+  ]
+},
+{
+  "_id": {
+    "$oid": "6769709e61cc2ffdf2f115f0"
+  },
+  "Name": "Amanda Stein DVM",
+  "schedule": "daily",
+  "Penicillin": [
+    "",
+    "",
+    "20:00"
+  ],
+  "Paracetamol": [
+    "8:00",
+    "",
+    "20:00"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6769709e61cc2ffdf2f115f1"
+  },
+  "Name": "Paul Graham",
+  "schedule": "not daily",
+  "Aspirin": [
+    "8:00",
+    "14:00",
+    "20:00"
+  ],
+  "Ibuprofen": [
+    "",
+    "",
+    "20:00"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6769709e61cc2ffdf2f115f2"
+  },
+  "Name": "Lisa Gonzalez",
+  "schedule": "daily",
+  "Paracetamol": [
+    "",
+    "",
+    "20:00"
+  ],
+  "Lipitor": [
+    "8:00",
+    "14:00",
+    "20:00"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6769709e61cc2ffdf2f115f3"
+  },
+  "Name": "Angela Sanchez",
+  "schedule": "not daily",
+  "Penicillin": [
+    "8:00",
+    "",
+    ""
+  ],
+  "Phenoxymethylpenicillin": [
+    "",
+    "14:00",
+    ""
+  ]
+},
+{
+  "_id": {
+    "$oid": "6769709e61cc2ffdf2f115f4"
+  },
+  "Name": "Kimberly Wheeler",
+  "schedule": "daily",
+  "Lipitor": [
+    "",
+    "14:00",
+    ""
+  ],
+  "Nefopam": [
+    "8:00",
+    "14:00",
+    "20:00"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6769709e61cc2ffdf2f115f5"
+  },
+  "Name": "Francisco Ritter",
+  "schedule": "not daily",
+  "Lipitor": [
+    "8:00",
+    "",
+    "20:00"
+  ],
+  "Paracetamol": [
+    "",
+    "",
+    "20:00"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6769709e61cc2ffdf2f115f6"
+  },
+  "Name": "Kenneth Smith",
+  "schedule": "daily",
+  "Lipitor": [
+    "",
+    "14:00",
+    ""
+  ],
+  "Aspirin": [
+    "8:00",
+    "14:00",
+    "20:00"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6769709e61cc2ffdf2f115f7"
+  },
+  "Name": "Christina Martinez",
+  "schedule": "not daily",
+  "Paracetamol": [
+    "8:00",
+    "",
+    "20:00"
+  ],
+  "Phenoxymethylpenicillin": [
+    "",
+    "14:00",
+    ""
+  ]
+},
+{
+  "_id": {
+    "$oid": "6769709e61cc2ffdf2f115f8"
+  },
+  "Name": "Ryan Richmond",
+  "schedule": "daily",
+  "Aspirin": [
+    "",
+    "",
+    "20:00"
+  ],
+  "Ibuprofen": [
+    "8:00",
+    "14:00",
+    "20:00"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6769709e61cc2ffdf2f115f9"
+  },
+  "Name": "Linda Wheeler",
+  "schedule": "not daily",
+  "Lipitor": [
+    "8:00",
+    "",
+    "20:00"
+  ],
+  "Betahistine": [
+    "only when need "
+  ]
+},
+{
+  "_id": {
+    "$oid": "6769709e61cc2ffdf2f115fa"
+  },
+  "Name": "Anna Phillips",
+  "schedule": "daily",
+  "Ibuprofen": [
+    "8:00",
+    "14:00",
+    "20:00"
+  ],
+  "Paracetamol": [
+    "",
+    "",
+    "20:00"
+  ]
+}]

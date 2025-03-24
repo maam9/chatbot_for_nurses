@@ -1,0 +1,93 @@
+version: "3.1"
+stories:
+- story: User logs in
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: login
+  - action: action_login
+
+
+
+
+- story: Show patient list (multi-turn)
+  steps:
+    - intent: ask_patient_list
+    - action: action_show_patient_list   # Sees no station_number, asks "Which station number?", returns
+    - intent: provide_station_number
+    - action: action_show_patient_list
+
+
+- story: Show medication plan
+  steps:
+  - intent: ask_medication
+  - action: action_show_medication_plan
+
+
+- story: Show disease info
+  steps:
+  - intent: ask_disease_info
+  - action: action_show_disease_info
+
+
+- story: Show disease precaution
+  steps:
+  - intent: ask_disease_precaution
+  - action: action_show_disease_precaution
+
+
+- story: Predict disease based on symptoms
+  steps:
+    - intent: ask_to_predict_disease
+    - action: utter_ask_symptoms
+
+
+- story: Predict disease when symptoms not provided
+  steps:
+    - intent: predict_disease
+    - action: action_predict_disease
+
+
+- story: Show all patients
+  steps:
+    - intent: ask_all_patients
+    - action: action_show_all_patients
+
+
+
+- story: Show  patients by station
+  steps:
+    - intent: ask_all_by_station
+    - action: action_show_patient_list
+
+
+- story: Show patient personal details
+  steps:
+    - intent: ask_patient_personal_details
+    - action: action_show_patient_personal_details
+
+- story: Show medical details
+  steps:
+    - intent: ask_patient_medical_details
+    - action: action_show_patient_medical_details
+
+- story: Show daily report
+  steps:
+    - intent: ask_daily_report
+    - action: action_show_daily_report
+
+
+
+- story: Predict disease when symptoms not provided
+  steps:
+    - intent: predict_disease
+    - slot_was_set:
+      - symptoms: "a, b"
+    - action: action_predict_disease
+
+
+- story: appointment story
+  steps:
+    - intent: request_appointment
+    - action: utter_appointment_link
+

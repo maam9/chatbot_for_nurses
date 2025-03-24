@@ -1,0 +1,32 @@
+version: "3.1"
+rules:
+- rule: Login requirement
+  steps:
+    - intent: login
+    - action: action_login
+
+
+- rule: say good bye
+  steps:
+    - intent: goodbye
+    - action: utter_goodbye
+
+
+#- rule: Activate daily report form
+#  steps:
+#    - intent: add_daily_report
+#    - action: daily_report_form
+#    - active_loop: daily_report_form
+#
+#- rule: Submit daily report form
+#  condition:
+#    - active_loop: daily_report_form
+#  steps:
+#    - action: daily_report_form
+#    - active_loop: null
+#    - action: action_submit_daily_report
+#
+
+
+
+

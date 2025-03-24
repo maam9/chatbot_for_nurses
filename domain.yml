@@ -1,0 +1,116 @@
+version: "3.1"
+
+intents:
+  - greet
+  - goodbye
+  - ask_medication
+  - ask_disease_info
+  - ask_disease_precaution
+  - predict_disease
+  - provide_station_number
+  - ask_all_patients
+  - ask_all_by_station
+  - ask_patient_personal_details
+  - ask_patient_medical_details
+  - ask_daily_report
+  - request_appointment
+  - ask_to_predict_disease
+  - provide_symptoms
+
+
+entities:
+  - worker_id
+  - patient_name
+  - disease_name
+  - symptoms
+  - station_number
+
+slots:
+  worker_id:
+    type: text
+    influence_conversation: false
+    mappings:
+      - type: from_text
+
+  password:
+    type: text
+    influence_conversation: false
+    mappings:
+      - type: from_text
+
+  patient_name:
+    type: text
+    mappings:
+      - type: from_entity
+        entity: patient_name
+      - type: from_text
+
+
+  disease_name:
+    type: text
+    mappings:
+      - type: from_entity
+        entity: disease_name
+      - type: from_text
+
+
+  station_number:
+    type: text
+    mappings:
+      - type: from_entity
+        entity: station_number
+
+
+
+
+  symptoms:
+    type: text
+    influence_conversation: false
+    initial_value: "cold"
+    mappings:
+      - type: from_entity
+        entity: symptoms
+
+
+
+responses:
+  utter_greet:
+    - text: "Hello! How can I help you today?"
+  utter_ask_worker_id:
+    - text: "Please provide your worker ID."
+  utter_ask_password:
+    - text: "Please provide your password."
+  utter_login_success:
+    - text: "Login successful! How can I help you?"
+  utter_login_failure:
+    - text: "Invalid worker ID or password. Please try again."
+  utter_ask_for_patient_name:
+    - text: "Which patient are you referring to?"
+  utter_ask_for_disease_name:
+    - text: "Which disease are you interested in?"
+  utter_ask_symptoms:
+    - text: "Please give the list of symptoms/issues separated by commas then i can predict what happend  "
+  utter_appointment_link:
+    - text: "Sure! You can book an appointment using the following link: [DocLib Website](https://www.doctolib.de/)"
+  utter_goodbye:
+    - text: "Goodbye! See you later."
+
+
+
+
+
+
+
+actions:
+  - action_login
+  - action_show_medication_plan
+  - action_show_disease_info
+  - action_show_disease_precaution
+  - action_show_all_patients
+  - action_show_patient_list
+  - action_show_patient_personal_details
+  - action_show_patient_medical_details
+  - action_show_daily_report
+  - action_predict_disease
+  - action_predict_me
+
